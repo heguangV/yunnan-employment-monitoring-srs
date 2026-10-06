@@ -1,0 +1,66 @@
+# Generated document exports and distribution archives
+*.pdf
+*.doc
+*.docx
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Intermediate archives and visual QA output
+/中间产物归档*/
+**/检查截图*/
+**/Typst排版检查*/
+**/渲染/
+**/交互检查结果.json
+**/smoke-*.png
+**/*核对_*.png
+**/原始说明书*
+**/*修订前*
+**/*前一版*
+/SRS工作文件/build_srs.py
+
+# Local dependencies and generated test/build output
+/artifacts/
+/dist/
+/build/
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+test-results/
+playwright-report/
+coverage/
+*.log
+*.tmp
+
+# Editor files and local credentials
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+
+# Additional caches and compiled files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+venv/
+out/
+target/
+*.exe
+*.dll
+*.obj
+*.o
+*.class
