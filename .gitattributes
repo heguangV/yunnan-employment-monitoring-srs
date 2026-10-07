@@ -20,8 +20,6 @@
 *.bat text eol=crlf
 .gitignore text eol=lf
 .gitattributes text eol=lf
-.editorconfig text eol=lf
-**/.githooks/* text eol=lf
 
 *.pdf binary
 *.docx binary
