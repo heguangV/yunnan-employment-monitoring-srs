@@ -64,3 +64,7 @@ target/
 *.obj
 *.o
 *.class
+
+# Share agent skill sources only; keep local agent state out of Git
+/.agents/*
+!/.agents/skills/

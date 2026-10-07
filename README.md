@@ -25,6 +25,16 @@ PDF、Word、ZIP、截图、测试结果、依赖目录和中间产物归档不�
 
 打开和修改原型无需安装依赖。修改页面或交互后，用浏览器按使用说明体验相关流程即可。需求调整同步更新作者源、原型和页面映射；Git通过 `.gitignore` 排除产物。
 
+## 使用 Spec Kit 处理后续需求
+
+已接入 GitHub Spec Kit v1.1.1 的 Codex 技能，按项目约定把小改动拆成
+`spec.md`（做什么）、`plan.md`（怎么做）、`tasks.md`（执行顺序）。
+首个试点修正了两期对比的缺样本显示，规格及验收记录位于
+[specs/001-comparison-empty-samples](specs/001-comparison-empty-samples)。
+
+安装方法、后续对话指令和工具文件用途见 [Spec-Kit实践说明](Spec-Kit实践说明.md)。
+保留浏览器场景验证，不新增 CI、提交钩子或检查清单文件。直接打开原型仍无需安装工具。
+
 ## 生成文档与演示包
 
 文档生成和打包使用 Python 3.10 或以上的标准库。安装 Typst，修改作者源后生成 `.typ`，再编译 PDF。模板留在项目内，避免跨目录的 Typst 沙箱访问。
