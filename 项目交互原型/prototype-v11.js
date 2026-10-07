@@ -1,5 +1,5 @@
 'use strict';
-// SRS V1.1: local, deterministic interaction demonstrations. No remote requests.
+// V1.1 interface with SRS V1.2 staged analysis conditions; local demonstrations only.
 const cityChoices=[['YN-C01','示例市甲'],['YN-C02','示例市乙']];
 const zoneChoices=[['URBAN','城区'],['COUNTY','县域'],['RURAL','乡村']];
 const baseSeed=seed,baseShell=shell,baseProfileForm=profileForm,baseFilingDecision=filingDecision;
@@ -166,8 +166,8 @@ Object.assign(actionHandlers,{
  'query-detail':key=>{const [id,month]=key.split('|'),r=allReports().find(r=>r.id===id&&r.period===month);if(r)modal('报表详情 · 只读',reportDetail(r))},
  'sample-search':()=>{const f=readFilter('s-',['mode','month','city','county','zone']);if(f.mode==='REPORTED'&&!f.month)return errorMessages(['有效上报口径必须选择调查月份。']);if(filterErrors(f).length)return errorMessages(filterErrors(f));sampleFilters=f;shell()},
  'sample-clear':()=>{sampleFilters={mode:'FILED',month:'',city:'',county:'',zone:''};shell()},
- 'compare-apply':()=>{const f={...analysisFilters,...readFilter('a-',['a','b','dimension','metric','city','nature','industry'])};if(!f.a||!f.b||f.a===f.b)return errorMessages(['请选择两个不同调查期。']);analysisFilters=f;shell()},
- 'trend-apply':()=>{const f={...analysisFilters,...readFilter('a-',['start','end','quarter','city','nature','industry'])};if(f.quarter){const q=Number(f.quarter.at(-1));f.start='2026-'+String(q*3-2).padStart(2,'0');f.end='2026-'+String(q*3).padStart(2,'0')}if(!f.start||!f.end||f.start>f.end||(Number(f.end.slice(0,4))*12+Number(f.end.slice(5)))-(Number(f.start.slice(0,4))*12+Number(f.start.slice(5)))>=24)return errorMessages(['连续区间须为1至24个月，开始不得晚于结束。']);analysisFilters=f;shell()},
+ 'compare-apply':()=>{const f={...analysisFilters,...readFilter('a-',['a','b','dimension','metric','city','nature','industry'])};if(!f.a||!f.b||f.a===f.b)return errorMessages(['请选择两个不同调查期。']);const nextSample=$('#sample-mode').value,nextBasis=$('#data-basis').value;analysisFilters=f;sampleMode=nextSample;basis=nextBasis;shell()},
+ 'trend-apply':()=>{const f={...analysisFilters,...readFilter('a-',['start','end','quarter','city','nature','industry'])};if(f.quarter){const q=Number(f.quarter.at(-1));f.start='2026-'+String(q*3-2).padStart(2,'0');f.end='2026-'+String(q*3).padStart(2,'0')}if(!f.start||!f.end||f.start>f.end||(Number(f.end.slice(0,4))*12+Number(f.end.slice(5)))-(Number(f.start.slice(0,4))*12+Number(f.start.slice(5)))>=24)return errorMessages(['连续区间须为1至24个月，开始不得晚于结束。']);const nextBasis=$('#data-basis').value;analysisFilters=f;basis=nextBasis;shell()},
  'export-preview':exportPreview,'filing-approve':()=>filingDecision(true),'filing-return':()=>filingDecision(false),
  'correction-save':saveCorrection,'correction-activate':id=>{if(S.reports[id].status!=='APPROVED')return toast('需省审通过后生效');originalActions['correction-activate'](id)},
  'notice-new':()=>openNotice(''),'notice-edit':openNotice,'notice-save':saveNotice,'notice-read':()=>{noticeMode='read';shell()},'notice-manage':()=>{noticeMode='manage';shell()},
@@ -184,7 +184,7 @@ Object.assign(actionHandlers,{
  'period-save':()=>{const p=S.periods.find(p=>p.month===periodEditing),start=$('#periodStart').value,end=$('#periodEnd').value;if(!start||!end||start>=end)return errorMessages(['开始必须早于截止。']);Object.assign(p,{start,end});if(p.month==='2026-09'){S.periodStart=start;S.periodEnd=end;S.open=S.now.replace(' ','T')>=start&&S.now.replace(' ','T')<end}dirty=false;log('修改调查期',p.month);shell();toast('调查窗口已更新，已提交快照保持不变')},
  'code-correct':codeCorrect,'code-save':codeSave,
  'dict-import-check':()=>{try{const a=JSON.parse($('#dict-json').value),codes=new Set(a.map(x=>x.code));if(!Array.isArray(a)||a.some(x=>!x.code||!x.name||!Number.isInteger(x.level)||x.level<1||x.level>3||typeof x.enabled!=='boolean')||codes.size!==a.length||a.some(x=>x.level===1?x.parentCode!==null:!a.some(p=>p.code===x.parentCode&&p.level===x.level-1)))throw Error();modal('地区配置校验通过',`<p>共 ${a.length} 项；代码唯一、层级及父子关系合法。该入口用于核对配置结构，本原型的地区演示仍使用固定两市两县。</p><pre class="pre">${esc(JSON.stringify(a,null,2))}</pre>`)}catch{errorMessages(['JSON须为完整地区数组，代码唯一，父级存在且层级连续，enabled为布尔值。'])}},
- boundaries:()=>modal('演示范围',`<p>本原型按SRS V1.1演示表单、审核、修订、13条件查询、备案取样饼图、两期多维与连续期分析、通知可见性、用户角色管理、调查期增改和模拟交换。</p><p>数据仅在浏览器内存中，刷新重置；方向记录可本地保存。角色切换用于评审，生产登录、服务端权限、数据库、真实监控、XLSX生成与国家接入由正式实现完成。地区JSON用于校验预览，分析最多连续24个月，示例仅有2026年6月、8月、9月。</p>`)
+ boundaries:()=>modal('演示范围',`<p>本原型界面主体为V1.1，分析条件应用已同步SRS V1.2；可演示表单、审核、修订、13条件查询、备案取样饼图、两期多维与连续期分析、通知可见性、用户角色管理、调查期增改和模拟交换。</p><p>数据仅在浏览器内存中，刷新重置；方向记录可本地保存。角色切换用于评审，生产登录、服务端权限、数据库、真实监控、XLSX生成与国家接入由正式实现完成。地区JSON用于校验预览，分析最多连续24个月，示例仅有2026年6月、8月、9月。V1.2新增首期B纠错、认证恢复限流、联系计时及正式提交标记全状态等规则尚未实现，详见原型使用说明。</p>`)
 });
 document.addEventListener('change',e=>{
  const t=e.target;
