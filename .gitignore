@@ -1,3 +1,10 @@
+# Root holds configuration only; keep business files in their target folders.
+/*
+!/*/
+!/AGENTS.md
+!/.gitignore
+!/.gitattributes
+
 # Generated document exports and distribution archives
 *.pdf
 *.doc
@@ -18,9 +25,14 @@
 **/原始说明书*
 **/*修订前*
 **/*前一版*
-/SRS工作文件/build_srs.py
 
-# Local dependencies and generated test/build output
+# Local final course assets and binary plans are retained on disk, not in Git.
+/课程资料/
+/项目计划/*.xlsx
+/项目计划/*.mpp
+/specs/
+
+# Fallback protection only: these files must be kept outside the project.
 /artifacts/
 /dist/
 /build/

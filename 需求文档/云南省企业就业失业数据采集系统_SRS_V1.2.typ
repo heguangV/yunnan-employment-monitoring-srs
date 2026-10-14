@@ -1,8 +1,8 @@
 // 云南省企业就业失业数据采集系统软件需求规格说明书
-// 模板副本来自父目录 style/bit-format.typ，项目内引用以兼容预览沙箱。
-// typst compile "云南省企业就业失业数据采集系统_SRS_V1.2.typ"
+// 正文样式统一引用项目内 styles/bit-format.typ。
+// 在项目根目录运行 typst compile --root . "需求文档/云南省企业就业失业数据采集系统_SRS_V1.2.typ"
 // 封面个人信息和课程沿用模板默认值；作业序号在下方设置。
-#import "styles/bit-format.typ": course-style
+#import "../styles/bit-format.typ": course-style
 
 #show: course-style.with(
   title: "云南省企业就业失业数据采集系统",
