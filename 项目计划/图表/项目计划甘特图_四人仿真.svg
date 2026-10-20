@@ -1,0 +1,1020 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4200" height="3088" viewBox="0 0 4200 3088" role="img" aria-labelledby="chart-title chart-desc">
+<title id="chart-title">云南省企业就业失业数据采集系统：四人八周项目计划甘特图（横向宽版）</title>
+<desc id="chart-desc">全部44项模拟活动各占一行。右侧为2026年10月19日至12月13日的完整八周日历，共56个自然日和40个工作日。周末斜线标识，活动条仅覆盖原计划工作日，跨周虚线表示休息日连接。材料归档日期作为注记单独展示。所有任务日期、工期、负责人及关键标志沿用CM-R3计划。</desc>
+<defs><pattern id="weekend" patternUnits="userSpaceOnUse" width="12" height="12"><path d="M-3,3 L3,-3 M0,12 L12,0 M9,15 L15,9" fill="none" stroke="#222222" stroke-width="0.6" opacity="0.25"/></pattern></defs>
+<style>text{font-family:"Times New Roman",SimSun,serif;fill:#111111;font-weight:normal} .heading{font-family:"Times New Roman",SimHei,SimSun,serif} line,path,rect,polygon{stroke:#222222} text{stroke:none}</style>
+<rect x="0" y="0" width="4200" height="3088" fill="#ffffff" style="stroke:none"/>
+<text x="32.00" y="57.00" font-size="44.000" text-anchor="start" class="heading" >项目计划甘特图</text>
+<text x="32.00" y="104.00" font-size="32.000" text-anchor="start" class="heading" >云南省企业就业失业数据采集系统</text>
+<text x="1328.00" y="56.00" font-size="32.000" text-anchor="start" class="" >4人 · 8周 · 44项活动 · 877人时</text>
+<text x="1328.00" y="101.00" font-size="24.706" text-anchor="start" class="" >计划任务：2026-10-19—2026-12-11；材料归档：2026-12-13（用户约定）</text>
+<text x="32.00" y="151.00" font-size="24.706" text-anchor="start" class="" >空心条：工作日计划；跨周虚线：休息日连接；*及加粗中线：Project关键任务；斜线列：周末</text>
+<text x="4168.00" y="151.00" font-size="24.706" text-anchor="end" class="" >全部为模拟计划；日期均为2026年；正式提交截止时刻待确认</text>
+<rect x="1581.571" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="1632.286" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="1936.571" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="1987.286" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="2291.571" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="2342.286" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="2646.571" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="2697.286" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="3001.571" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="3052.286" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="3356.571" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="3407.286" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="3711.571" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="3762.286" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="4066.571" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<rect x="4117.286" y="262" width="50.714" height="2632" fill="url(#weekend)" style="stroke:none"/>
+<text x="90.00" y="252.00" font-size="24.706" text-anchor="middle" class="" >WBS</text>
+<text x="483.00" y="252.00" font-size="24.706" text-anchor="middle" class="" >任务名称</text>
+<text x="868.00" y="252.00" font-size="24.706" text-anchor="middle" class="" >责任资源</text>
+<text x="993.00" y="252.00" font-size="24.706" text-anchor="middle" class="" >开始</text>
+<text x="993.00" y="289.00" font-size="22.941" text-anchor="middle" class="" >月/日</text>
+<text x="1143.00" y="252.00" font-size="24.706" text-anchor="middle" class="" >完成</text>
+<text x="1143.00" y="289.00" font-size="22.941" text-anchor="middle" class="" >月/日</text>
+<text x="1273.00" y="252.00" font-size="24.706" text-anchor="middle" class="" >工期</text>
+<text x="1273.00" y="289.00" font-size="22.941" text-anchor="middle" class="" >工作日</text>
+<text x="1505.50" y="222.00" font-size="32.000" text-anchor="middle" class="" >W1</text>
+<text x="1505.50" y="253.00" font-size="24.706" text-anchor="middle" class="" >10/19—10/25</text>
+<text x="1860.50" y="222.00" font-size="32.000" text-anchor="middle" class="" >W2</text>
+<text x="1860.50" y="253.00" font-size="24.706" text-anchor="middle" class="" >10/26—11/01</text>
+<text x="2215.50" y="222.00" font-size="32.000" text-anchor="middle" class="" >W3</text>
+<text x="2215.50" y="253.00" font-size="24.706" text-anchor="middle" class="" >11/02—11/08</text>
+<text x="2570.50" y="222.00" font-size="32.000" text-anchor="middle" class="" >W4</text>
+<text x="2570.50" y="253.00" font-size="24.706" text-anchor="middle" class="" >11/09—11/15</text>
+<text x="2925.50" y="222.00" font-size="32.000" text-anchor="middle" class="" >W5</text>
+<text x="2925.50" y="253.00" font-size="24.706" text-anchor="middle" class="" >11/16—11/22</text>
+<text x="3280.50" y="222.00" font-size="32.000" text-anchor="middle" class="" >W6</text>
+<text x="3280.50" y="253.00" font-size="24.706" text-anchor="middle" class="" >11/23—11/29</text>
+<text x="3635.50" y="222.00" font-size="32.000" text-anchor="middle" class="" >W7</text>
+<text x="3635.50" y="253.00" font-size="24.706" text-anchor="middle" class="" >11/30—12/06</text>
+<text x="3990.50" y="222.00" font-size="32.000" text-anchor="middle" class="" >W8</text>
+<text x="3990.50" y="253.00" font-size="24.706" text-anchor="middle" class="" >12/07—12/13</text>
+<text x="1353.36" y="285.00" font-size="24.706" text-anchor="middle" class="" >19</text>
+<text x="1353.36" y="311.00" font-size="22.941" text-anchor="middle" class="" >一</text>
+<text x="1404.07" y="285.00" font-size="24.706" text-anchor="middle" class="" >20</text>
+<text x="1404.07" y="311.00" font-size="22.941" text-anchor="middle" class="" >二</text>
+<text x="1454.79" y="285.00" font-size="24.706" text-anchor="middle" class="" >21</text>
+<text x="1454.79" y="311.00" font-size="22.941" text-anchor="middle" class="" >三</text>
+<text x="1505.50" y="285.00" font-size="24.706" text-anchor="middle" class="" >22</text>
+<text x="1505.50" y="311.00" font-size="22.941" text-anchor="middle" class="" >四</text>
+<text x="1556.21" y="285.00" font-size="24.706" text-anchor="middle" class="" >23</text>
+<text x="1556.21" y="311.00" font-size="22.941" text-anchor="middle" class="" >五</text>
+<text x="1606.93" y="285.00" font-size="24.706" text-anchor="middle" class="" >24</text>
+<text x="1606.93" y="311.00" font-size="22.941" text-anchor="middle" class="" >六</text>
+<text x="1657.64" y="285.00" font-size="24.706" text-anchor="middle" class="" >25</text>
+<text x="1657.64" y="311.00" font-size="22.941" text-anchor="middle" class="" >日</text>
+<text x="1708.36" y="285.00" font-size="24.706" text-anchor="middle" class="" >26</text>
+<text x="1708.36" y="311.00" font-size="22.941" text-anchor="middle" class="" >一</text>
+<text x="1759.07" y="285.00" font-size="24.706" text-anchor="middle" class="" >27</text>
+<text x="1759.07" y="311.00" font-size="22.941" text-anchor="middle" class="" >二</text>
+<text x="1809.79" y="285.00" font-size="24.706" text-anchor="middle" class="" >28</text>
+<text x="1809.79" y="311.00" font-size="22.941" text-anchor="middle" class="" >三</text>
+<text x="1860.50" y="285.00" font-size="24.706" text-anchor="middle" class="" >29</text>
+<text x="1860.50" y="311.00" font-size="22.941" text-anchor="middle" class="" >四</text>
+<text x="1911.21" y="285.00" font-size="24.706" text-anchor="middle" class="" >30</text>
+<text x="1911.21" y="311.00" font-size="22.941" text-anchor="middle" class="" >五</text>
+<text x="1961.93" y="285.00" font-size="24.706" text-anchor="middle" class="" >31</text>
+<text x="1961.93" y="311.00" font-size="22.941" text-anchor="middle" class="" >六</text>
+<text x="2012.64" y="285.00" font-size="24.706" text-anchor="middle" class="" >1</text>
+<text x="2012.64" y="311.00" font-size="22.941" text-anchor="middle" class="" >日</text>
+<text x="2063.36" y="285.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<text x="2063.36" y="311.00" font-size="22.941" text-anchor="middle" class="" >一</text>
+<text x="2114.07" y="285.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<text x="2114.07" y="311.00" font-size="22.941" text-anchor="middle" class="" >二</text>
+<text x="2164.79" y="285.00" font-size="24.706" text-anchor="middle" class="" >4</text>
+<text x="2164.79" y="311.00" font-size="22.941" text-anchor="middle" class="" >三</text>
+<text x="2215.50" y="285.00" font-size="24.706" text-anchor="middle" class="" >5</text>
+<text x="2215.50" y="311.00" font-size="22.941" text-anchor="middle" class="" >四</text>
+<text x="2266.21" y="285.00" font-size="24.706" text-anchor="middle" class="" >6</text>
+<text x="2266.21" y="311.00" font-size="22.941" text-anchor="middle" class="" >五</text>
+<text x="2316.93" y="285.00" font-size="24.706" text-anchor="middle" class="" >7</text>
+<text x="2316.93" y="311.00" font-size="22.941" text-anchor="middle" class="" >六</text>
+<text x="2367.64" y="285.00" font-size="24.706" text-anchor="middle" class="" >8</text>
+<text x="2367.64" y="311.00" font-size="22.941" text-anchor="middle" class="" >日</text>
+<text x="2418.36" y="285.00" font-size="24.706" text-anchor="middle" class="" >9</text>
+<text x="2418.36" y="311.00" font-size="22.941" text-anchor="middle" class="" >一</text>
+<text x="2469.07" y="285.00" font-size="24.706" text-anchor="middle" class="" >10</text>
+<text x="2469.07" y="311.00" font-size="22.941" text-anchor="middle" class="" >二</text>
+<text x="2519.79" y="285.00" font-size="24.706" text-anchor="middle" class="" >11</text>
+<text x="2519.79" y="311.00" font-size="22.941" text-anchor="middle" class="" >三</text>
+<text x="2570.50" y="285.00" font-size="24.706" text-anchor="middle" class="" >12</text>
+<text x="2570.50" y="311.00" font-size="22.941" text-anchor="middle" class="" >四</text>
+<text x="2621.21" y="285.00" font-size="24.706" text-anchor="middle" class="" >13</text>
+<text x="2621.21" y="311.00" font-size="22.941" text-anchor="middle" class="" >五</text>
+<text x="2671.93" y="285.00" font-size="24.706" text-anchor="middle" class="" >14</text>
+<text x="2671.93" y="311.00" font-size="22.941" text-anchor="middle" class="" >六</text>
+<text x="2722.64" y="285.00" font-size="24.706" text-anchor="middle" class="" >15</text>
+<text x="2722.64" y="311.00" font-size="22.941" text-anchor="middle" class="" >日</text>
+<text x="2773.36" y="285.00" font-size="24.706" text-anchor="middle" class="" >16</text>
+<text x="2773.36" y="311.00" font-size="22.941" text-anchor="middle" class="" >一</text>
+<text x="2824.07" y="285.00" font-size="24.706" text-anchor="middle" class="" >17</text>
+<text x="2824.07" y="311.00" font-size="22.941" text-anchor="middle" class="" >二</text>
+<text x="2874.79" y="285.00" font-size="24.706" text-anchor="middle" class="" >18</text>
+<text x="2874.79" y="311.00" font-size="22.941" text-anchor="middle" class="" >三</text>
+<text x="2925.50" y="285.00" font-size="24.706" text-anchor="middle" class="" >19</text>
+<text x="2925.50" y="311.00" font-size="22.941" text-anchor="middle" class="" >四</text>
+<text x="2976.21" y="285.00" font-size="24.706" text-anchor="middle" class="" >20</text>
+<text x="2976.21" y="311.00" font-size="22.941" text-anchor="middle" class="" >五</text>
+<text x="3026.93" y="285.00" font-size="24.706" text-anchor="middle" class="" >21</text>
+<text x="3026.93" y="311.00" font-size="22.941" text-anchor="middle" class="" >六</text>
+<text x="3077.64" y="285.00" font-size="24.706" text-anchor="middle" class="" >22</text>
+<text x="3077.64" y="311.00" font-size="22.941" text-anchor="middle" class="" >日</text>
+<text x="3128.36" y="285.00" font-size="24.706" text-anchor="middle" class="" >23</text>
+<text x="3128.36" y="311.00" font-size="22.941" text-anchor="middle" class="" >一</text>
+<text x="3179.07" y="285.00" font-size="24.706" text-anchor="middle" class="" >24</text>
+<text x="3179.07" y="311.00" font-size="22.941" text-anchor="middle" class="" >二</text>
+<text x="3229.79" y="285.00" font-size="24.706" text-anchor="middle" class="" >25</text>
+<text x="3229.79" y="311.00" font-size="22.941" text-anchor="middle" class="" >三</text>
+<text x="3280.50" y="285.00" font-size="24.706" text-anchor="middle" class="" >26</text>
+<text x="3280.50" y="311.00" font-size="22.941" text-anchor="middle" class="" >四</text>
+<text x="3331.21" y="285.00" font-size="24.706" text-anchor="middle" class="" >27</text>
+<text x="3331.21" y="311.00" font-size="22.941" text-anchor="middle" class="" >五</text>
+<text x="3381.93" y="285.00" font-size="24.706" text-anchor="middle" class="" >28</text>
+<text x="3381.93" y="311.00" font-size="22.941" text-anchor="middle" class="" >六</text>
+<text x="3432.64" y="285.00" font-size="24.706" text-anchor="middle" class="" >29</text>
+<text x="3432.64" y="311.00" font-size="22.941" text-anchor="middle" class="" >日</text>
+<text x="3483.36" y="285.00" font-size="24.706" text-anchor="middle" class="" >30</text>
+<text x="3483.36" y="311.00" font-size="22.941" text-anchor="middle" class="" >一</text>
+<text x="3534.07" y="285.00" font-size="24.706" text-anchor="middle" class="" >1</text>
+<text x="3534.07" y="311.00" font-size="22.941" text-anchor="middle" class="" >二</text>
+<text x="3584.79" y="285.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<text x="3584.79" y="311.00" font-size="22.941" text-anchor="middle" class="" >三</text>
+<text x="3635.50" y="285.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<text x="3635.50" y="311.00" font-size="22.941" text-anchor="middle" class="" >四</text>
+<text x="3686.21" y="285.00" font-size="24.706" text-anchor="middle" class="" >4</text>
+<text x="3686.21" y="311.00" font-size="22.941" text-anchor="middle" class="" >五</text>
+<text x="3736.93" y="285.00" font-size="24.706" text-anchor="middle" class="" >5</text>
+<text x="3736.93" y="311.00" font-size="22.941" text-anchor="middle" class="" >六</text>
+<text x="3787.64" y="285.00" font-size="24.706" text-anchor="middle" class="" >6</text>
+<text x="3787.64" y="311.00" font-size="22.941" text-anchor="middle" class="" >日</text>
+<text x="3838.36" y="285.00" font-size="24.706" text-anchor="middle" class="" >7</text>
+<text x="3838.36" y="311.00" font-size="22.941" text-anchor="middle" class="" >一</text>
+<text x="3889.07" y="285.00" font-size="24.706" text-anchor="middle" class="" >8</text>
+<text x="3889.07" y="311.00" font-size="22.941" text-anchor="middle" class="" >二</text>
+<text x="3939.79" y="285.00" font-size="24.706" text-anchor="middle" class="" >9</text>
+<text x="3939.79" y="311.00" font-size="22.941" text-anchor="middle" class="" >三</text>
+<text x="3990.50" y="285.00" font-size="24.706" text-anchor="middle" class="" >10</text>
+<text x="3990.50" y="311.00" font-size="22.941" text-anchor="middle" class="" >四</text>
+<text x="4041.21" y="285.00" font-size="24.706" text-anchor="middle" class="" >11</text>
+<text x="4041.21" y="311.00" font-size="22.941" text-anchor="middle" class="" >五</text>
+<text x="4091.93" y="285.00" font-size="24.706" text-anchor="middle" class="" >12</text>
+<text x="4091.93" y="311.00" font-size="22.941" text-anchor="middle" class="" >六</text>
+<text x="4142.64" y="285.00" font-size="24.706" text-anchor="middle" class="" >13</text>
+<text x="4142.64" y="311.00" font-size="22.941" text-anchor="middle" class="" >日</text>
+<line x1="1328.000" y1="190.000" x2="1328.000" y2="2894.000" stroke-width="2.2"/>
+<line x1="1378.714" y1="262.000" x2="1378.714" y2="2894.000" stroke-width="0.6"/>
+<line x1="1429.429" y1="262.000" x2="1429.429" y2="2894.000" stroke-width="0.6"/>
+<line x1="1480.143" y1="262.000" x2="1480.143" y2="2894.000" stroke-width="0.6"/>
+<line x1="1530.857" y1="262.000" x2="1530.857" y2="2894.000" stroke-width="0.6"/>
+<line x1="1581.571" y1="262.000" x2="1581.571" y2="2894.000" stroke-width="0.6"/>
+<line x1="1632.286" y1="262.000" x2="1632.286" y2="2894.000" stroke-width="0.6"/>
+<line x1="1683.000" y1="190.000" x2="1683.000" y2="2894.000" stroke-width="2.2"/>
+<line x1="1733.714" y1="262.000" x2="1733.714" y2="2894.000" stroke-width="0.6"/>
+<line x1="1784.429" y1="262.000" x2="1784.429" y2="2894.000" stroke-width="0.6"/>
+<line x1="1835.143" y1="262.000" x2="1835.143" y2="2894.000" stroke-width="0.6"/>
+<line x1="1885.857" y1="262.000" x2="1885.857" y2="2894.000" stroke-width="0.6"/>
+<line x1="1936.571" y1="262.000" x2="1936.571" y2="2894.000" stroke-width="0.6"/>
+<line x1="1987.286" y1="262.000" x2="1987.286" y2="2894.000" stroke-width="0.6"/>
+<line x1="2038.000" y1="190.000" x2="2038.000" y2="2894.000" stroke-width="2.2"/>
+<line x1="2088.714" y1="262.000" x2="2088.714" y2="2894.000" stroke-width="0.6"/>
+<line x1="2139.429" y1="262.000" x2="2139.429" y2="2894.000" stroke-width="0.6"/>
+<line x1="2190.143" y1="262.000" x2="2190.143" y2="2894.000" stroke-width="0.6"/>
+<line x1="2240.857" y1="262.000" x2="2240.857" y2="2894.000" stroke-width="0.6"/>
+<line x1="2291.571" y1="262.000" x2="2291.571" y2="2894.000" stroke-width="0.6"/>
+<line x1="2342.286" y1="262.000" x2="2342.286" y2="2894.000" stroke-width="0.6"/>
+<line x1="2393.000" y1="190.000" x2="2393.000" y2="2894.000" stroke-width="2.2"/>
+<line x1="2443.714" y1="262.000" x2="2443.714" y2="2894.000" stroke-width="0.6"/>
+<line x1="2494.429" y1="262.000" x2="2494.429" y2="2894.000" stroke-width="0.6"/>
+<line x1="2545.143" y1="262.000" x2="2545.143" y2="2894.000" stroke-width="0.6"/>
+<line x1="2595.857" y1="262.000" x2="2595.857" y2="2894.000" stroke-width="0.6"/>
+<line x1="2646.571" y1="262.000" x2="2646.571" y2="2894.000" stroke-width="0.6"/>
+<line x1="2697.286" y1="262.000" x2="2697.286" y2="2894.000" stroke-width="0.6"/>
+<line x1="2748.000" y1="190.000" x2="2748.000" y2="2894.000" stroke-width="2.2"/>
+<line x1="2798.714" y1="262.000" x2="2798.714" y2="2894.000" stroke-width="0.6"/>
+<line x1="2849.429" y1="262.000" x2="2849.429" y2="2894.000" stroke-width="0.6"/>
+<line x1="2900.143" y1="262.000" x2="2900.143" y2="2894.000" stroke-width="0.6"/>
+<line x1="2950.857" y1="262.000" x2="2950.857" y2="2894.000" stroke-width="0.6"/>
+<line x1="3001.571" y1="262.000" x2="3001.571" y2="2894.000" stroke-width="0.6"/>
+<line x1="3052.286" y1="262.000" x2="3052.286" y2="2894.000" stroke-width="0.6"/>
+<line x1="3103.000" y1="190.000" x2="3103.000" y2="2894.000" stroke-width="2.2"/>
+<line x1="3153.714" y1="262.000" x2="3153.714" y2="2894.000" stroke-width="0.6"/>
+<line x1="3204.429" y1="262.000" x2="3204.429" y2="2894.000" stroke-width="0.6"/>
+<line x1="3255.143" y1="262.000" x2="3255.143" y2="2894.000" stroke-width="0.6"/>
+<line x1="3305.857" y1="262.000" x2="3305.857" y2="2894.000" stroke-width="0.6"/>
+<line x1="3356.571" y1="262.000" x2="3356.571" y2="2894.000" stroke-width="0.6"/>
+<line x1="3407.286" y1="262.000" x2="3407.286" y2="2894.000" stroke-width="0.6"/>
+<line x1="3458.000" y1="190.000" x2="3458.000" y2="2894.000" stroke-width="2.2"/>
+<line x1="3508.714" y1="262.000" x2="3508.714" y2="2894.000" stroke-width="0.6"/>
+<line x1="3559.429" y1="262.000" x2="3559.429" y2="2894.000" stroke-width="0.6"/>
+<line x1="3610.143" y1="262.000" x2="3610.143" y2="2894.000" stroke-width="0.6"/>
+<line x1="3660.857" y1="262.000" x2="3660.857" y2="2894.000" stroke-width="0.6"/>
+<line x1="3711.571" y1="262.000" x2="3711.571" y2="2894.000" stroke-width="0.6"/>
+<line x1="3762.286" y1="262.000" x2="3762.286" y2="2894.000" stroke-width="0.6"/>
+<line x1="3813.000" y1="190.000" x2="3813.000" y2="2894.000" stroke-width="2.2"/>
+<line x1="3863.714" y1="262.000" x2="3863.714" y2="2894.000" stroke-width="0.6"/>
+<line x1="3914.429" y1="262.000" x2="3914.429" y2="2894.000" stroke-width="0.6"/>
+<line x1="3965.143" y1="262.000" x2="3965.143" y2="2894.000" stroke-width="0.6"/>
+<line x1="4015.857" y1="262.000" x2="4015.857" y2="2894.000" stroke-width="0.6"/>
+<line x1="4066.571" y1="262.000" x2="4066.571" y2="2894.000" stroke-width="0.6"/>
+<line x1="4117.286" y1="262.000" x2="4117.286" y2="2894.000" stroke-width="0.6"/>
+<line x1="4168.000" y1="190.000" x2="4168.000" y2="2894.000" stroke-width="2.2"/>
+<line x1="32.000" y1="190.000" x2="32.000" y2="2894.000" stroke-width="0.9"/>
+<line x1="148.000" y1="190.000" x2="148.000" y2="2894.000" stroke-width="0.9"/>
+<line x1="818.000" y1="190.000" x2="818.000" y2="2894.000" stroke-width="0.9"/>
+<line x1="918.000" y1="190.000" x2="918.000" y2="2894.000" stroke-width="0.9"/>
+<line x1="1068.000" y1="190.000" x2="1068.000" y2="2894.000" stroke-width="0.9"/>
+<line x1="1218.000" y1="190.000" x2="1218.000" y2="2894.000" stroke-width="0.9"/>
+<line x1="32.000" y1="190.000" x2="4168.000" y2="190.000" stroke-width="1.6"/>
+<line x1="1328.000" y1="262.000" x2="4168.000" y2="262.000" stroke-width="0.9"/>
+<line x1="32.000" y1="318.000" x2="4168.000" y2="318.000" stroke-width="1.6"/>
+<rect x="33" y="319" width="1294" height="78" fill="#ffffff" style="stroke:none"/>
+<text x="42.00" y="351.00" font-size="30.000" text-anchor="start" class="heading" >1 需求与计划</text>
+<text x="42.00" y="383.00" font-size="22.941" text-anchor="start" class="" >10/19—10/22 · 3项活动</text>
+<line x1="1331.000" y1="359.000" x2="1527.857" y2="359.000" stroke-width="3.4"/>
+<line x1="1331.000" y1="353.000" x2="1331.000" y2="366.000" stroke-width="2.4"/>
+<line x1="1527.857" y1="353.000" x2="1527.857" y2="366.000" stroke-width="2.4"/>
+<text x="1505.50" y="340.00" font-size="24.706" text-anchor="middle" class="" >W1</text>
+<text x="1505.50" y="391.00" font-size="22.941" text-anchor="middle" class="" >10/19—10/25</text>
+<text x="1860.50" y="340.00" font-size="24.706" text-anchor="middle" class="" >W2</text>
+<text x="1860.50" y="391.00" font-size="22.941" text-anchor="middle" class="" >10/26—11/01</text>
+<text x="2215.50" y="340.00" font-size="24.706" text-anchor="middle" class="" >W3</text>
+<text x="2215.50" y="391.00" font-size="22.941" text-anchor="middle" class="" >11/02—11/08</text>
+<text x="2570.50" y="340.00" font-size="24.706" text-anchor="middle" class="" >W4</text>
+<text x="2570.50" y="391.00" font-size="22.941" text-anchor="middle" class="" >11/09—11/15</text>
+<text x="2925.50" y="340.00" font-size="24.706" text-anchor="middle" class="" >W5</text>
+<text x="2925.50" y="391.00" font-size="22.941" text-anchor="middle" class="" >11/16—11/22</text>
+<text x="3280.50" y="340.00" font-size="24.706" text-anchor="middle" class="" >W6</text>
+<text x="3280.50" y="391.00" font-size="22.941" text-anchor="middle" class="" >11/23—11/29</text>
+<text x="3635.50" y="340.00" font-size="24.706" text-anchor="middle" class="" >W7</text>
+<text x="3635.50" y="391.00" font-size="22.941" text-anchor="middle" class="" >11/30—12/06</text>
+<text x="3990.50" y="340.00" font-size="24.706" text-anchor="middle" class="" >W8</text>
+<text x="3990.50" y="391.00" font-size="22.941" text-anchor="middle" class="" >12/07—12/13</text>
+<line x1="32.000" y1="398.000" x2="4168.000" y2="398.000" stroke-width="0.8"/>
+<g id="T1-1"><title>T1.1 核对需求范围与覆盖
+计划：2026-10-19 至 2026-10-19；工期：1工作日；责任资源：R01；工作量：20人时
+前置：无；Project关键任务：是
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。已有SRS逐条确认43项需求、范围和验收映射，四人并行核对
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="432.00" font-size="24.706" text-anchor="start" class="" >*T1.1</text>
+<text x="160.00" y="432.00" font-size="30.000" text-anchor="start" class="" >核对需求范围与覆盖</text>
+<text x="868.00" y="431.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="431.00" font-size="24.706" text-anchor="middle" class="" >10/19</text>
+<text x="1143.00" y="431.00" font-size="24.706" text-anchor="middle" class="" >10/19</text>
+<text x="1273.00" y="431.00" font-size="24.706" text-anchor="middle" class="" >1</text>
+<rect class="activity" data-first="0" data-last="0" x="1331.000" y="410.000" width="44.714" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="1334.000" y1="422.000" x2="1372.714" y2="422.000" stroke-width="1.2"/>
+</g>
+<line x1="32.000" y1="446.000" x2="4168.000" y2="446.000" stroke-width="0.8"/>
+<g id="T1-2"><title>T1.2 形成WBS与项目计划初稿
+计划：2026-10-20 至 2026-10-21；工期：2工作日；责任资源：R01；工作量：10人时
+前置：T1.1FS；Project关键任务：是
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。四项计划、WBS与预算编制，项目经理主导，QA复核2小时
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="480.00" font-size="24.706" text-anchor="start" class="" >*T1.2</text>
+<text x="160.00" y="480.00" font-size="30.000" text-anchor="start" class="" >形成WBS与项目计划初稿</text>
+<text x="868.00" y="479.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="479.00" font-size="24.706" text-anchor="middle" class="" >10/20</text>
+<text x="1143.00" y="479.00" font-size="24.706" text-anchor="middle" class="" >10/21</text>
+<text x="1273.00" y="479.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="1" data-last="2" x="1381.714" y="458.000" width="95.429" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="1384.714" y1="470.000" x2="1474.143" y2="470.000" stroke-width="1.2"/>
+</g>
+<line x1="32.000" y1="494.000" x2="4168.000" y2="494.000" stroke-width="0.8"/>
+<g id="T1-3"><title>T1.3 编写测试大纲与合成数据方案
+计划：2026-10-20 至 2026-10-22；工期：3工作日；责任资源：R04；工作量：18人时
+前置：T1.1FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。14组验收、边界数据、压力数据方案
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="528.00" font-size="24.706" text-anchor="start" class="" >T1.3</text>
+<text x="160.00" y="528.00" font-size="30.000" text-anchor="start" class="" >编写测试大纲与合成数据方案</text>
+<text x="868.00" y="527.00" font-size="24.706" text-anchor="middle" class="" >R04</text>
+<text x="993.00" y="527.00" font-size="24.706" text-anchor="middle" class="" >10/20</text>
+<text x="1143.00" y="527.00" font-size="24.706" text-anchor="middle" class="" >10/22</text>
+<text x="1273.00" y="527.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<rect class="activity" data-first="1" data-last="3" x="1381.714" y="506.000" width="146.143" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="542.000" x2="4168.000" y2="542.000" stroke-width="0.8"/>
+<rect x="33" y="543" width="1294" height="78" fill="#ffffff" style="stroke:none"/>
+<text x="42.00" y="575.00" font-size="30.000" text-anchor="start" class="heading" >2 设计与配置管理</text>
+<text x="42.00" y="607.00" font-size="22.941" text-anchor="start" class="" >10/20—12/10 · 5项活动</text>
+<line x1="1381.714" y1="583.000" x2="4012.857" y2="583.000" stroke-width="3.4"/>
+<line x1="1381.714" y1="577.000" x2="1381.714" y2="590.000" stroke-width="2.4"/>
+<line x1="4012.857" y1="577.000" x2="4012.857" y2="590.000" stroke-width="2.4"/>
+<text x="1505.50" y="564.00" font-size="24.706" text-anchor="middle" class="" >W1</text>
+<text x="1505.50" y="615.00" font-size="22.941" text-anchor="middle" class="" >10/19—10/25</text>
+<text x="1860.50" y="564.00" font-size="24.706" text-anchor="middle" class="" >W2</text>
+<text x="1860.50" y="615.00" font-size="22.941" text-anchor="middle" class="" >10/26—11/01</text>
+<text x="2215.50" y="564.00" font-size="24.706" text-anchor="middle" class="" >W3</text>
+<text x="2215.50" y="615.00" font-size="22.941" text-anchor="middle" class="" >11/02—11/08</text>
+<text x="2570.50" y="564.00" font-size="24.706" text-anchor="middle" class="" >W4</text>
+<text x="2570.50" y="615.00" font-size="22.941" text-anchor="middle" class="" >11/09—11/15</text>
+<text x="2925.50" y="564.00" font-size="24.706" text-anchor="middle" class="" >W5</text>
+<text x="2925.50" y="615.00" font-size="22.941" text-anchor="middle" class="" >11/16—11/22</text>
+<text x="3280.50" y="564.00" font-size="24.706" text-anchor="middle" class="" >W6</text>
+<text x="3280.50" y="615.00" font-size="22.941" text-anchor="middle" class="" >11/23—11/29</text>
+<text x="3635.50" y="564.00" font-size="24.706" text-anchor="middle" class="" >W7</text>
+<text x="3635.50" y="615.00" font-size="22.941" text-anchor="middle" class="" >11/30—12/06</text>
+<text x="3990.50" y="564.00" font-size="24.706" text-anchor="middle" class="" >W8</text>
+<text x="3990.50" y="615.00" font-size="22.941" text-anchor="middle" class="" >12/07—12/13</text>
+<line x1="32.000" y1="622.000" x2="4168.000" y2="622.000" stroke-width="0.8"/>
+<g id="T2-1"><title>T2.1 总体架构与模块设计
+计划：2026-10-20 至 2026-10-21；工期：2工作日；责任资源：R02；工作量：26人时
+前置：T1.1FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。分层架构、权限边界和状态流设计，QA参加2小时可测性评审
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="656.00" font-size="24.706" text-anchor="start" class="" >T2.1</text>
+<text x="160.00" y="656.00" font-size="30.000" text-anchor="start" class="" >总体架构与模块设计</text>
+<text x="868.00" y="655.00" font-size="24.706" text-anchor="middle" class="" >R02</text>
+<text x="993.00" y="655.00" font-size="24.706" text-anchor="middle" class="" >10/20</text>
+<text x="1143.00" y="655.00" font-size="24.706" text-anchor="middle" class="" >10/21</text>
+<text x="1273.00" y="655.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="1" data-last="2" x="1381.714" y="634.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="670.000" x2="4168.000" y2="670.000" stroke-width="0.8"/>
+<g id="T2-2"><title>T2.2 数据模型、版本与事务设计
+计划：2026-10-22 至 2026-10-23；工期：2工作日；责任资源：R02；工作量：16人时
+前置：T2.1FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。版本、事务、冻结快照和审计模型设计
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="704.00" font-size="24.706" text-anchor="start" class="" >T2.2</text>
+<text x="160.00" y="704.00" font-size="30.000" text-anchor="start" class="" >数据模型、版本与事务设计</text>
+<text x="868.00" y="703.00" font-size="24.706" text-anchor="middle" class="" >R02</text>
+<text x="993.00" y="703.00" font-size="24.706" text-anchor="middle" class="" >10/22</text>
+<text x="1143.00" y="703.00" font-size="24.706" text-anchor="middle" class="" >10/23</text>
+<text x="1273.00" y="703.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="3" data-last="4" x="1483.143" y="682.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="718.000" x2="4168.000" y2="718.000" stroke-width="0.8"/>
+<g id="T2-3"><title>T2.3 内部接口与导出契约设计
+计划：2026-10-22 至 2026-10-23；工期：2工作日；责任资源：R01；工作量：16人时
+前置：T2.1FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。已有SRS契约细化、错误码及导出接口设计
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="752.00" font-size="24.706" text-anchor="start" class="" >T2.3</text>
+<text x="160.00" y="752.00" font-size="30.000" text-anchor="start" class="" >内部接口与导出契约设计</text>
+<text x="868.00" y="751.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="751.00" font-size="24.706" text-anchor="middle" class="" >10/22</text>
+<text x="1143.00" y="751.00" font-size="24.706" text-anchor="middle" class="" >10/23</text>
+<text x="1273.00" y="751.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="3" data-last="4" x="1483.143" y="730.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="766.000" x2="4168.000" y2="766.000" stroke-width="0.8"/>
+<g id="T2-4"><title>T2.4 确认国家真实交换输入
+计划：2026-10-26 至 2026-10-28；工期：3工作日；责任资源：R01；工作量：10人时
+前置：T1.1FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。外部协议和验证条件未确认；不预置未经证实的模型参数。仿真假设W2具备协议、端点、测试凭据和字段映射
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="800.00" font-size="24.706" text-anchor="start" class="" >T2.4</text>
+<text x="160.00" y="800.00" font-size="30.000" text-anchor="start" class="" >确认国家真实交换输入</text>
+<text x="868.00" y="799.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="799.00" font-size="24.706" text-anchor="middle" class="" >10/26</text>
+<text x="1143.00" y="799.00" font-size="24.706" text-anchor="middle" class="" >10/28</text>
+<text x="1273.00" y="799.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<rect class="activity" data-first="7" data-last="9" x="1686.000" y="778.000" width="146.143" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="814.000" x2="4168.000" y2="814.000" stroke-width="0.8"/>
+<g id="T2-5"><title>T2.5 维护计划与配置版本
+计划：2026-10-22 至 2026-12-10；工期：36工作日；责任资源：R01；工作量：36人时
+前置：T1.2FS；Project关键任务：是
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。D4–D39每日1小时配置、计划、风险和成本跟踪
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="848.00" font-size="24.706" text-anchor="start" class="" >*T2.5</text>
+<text x="160.00" y="848.00" font-size="30.000" text-anchor="start" class="" >维护计划与配置版本</text>
+<text x="868.00" y="847.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="847.00" font-size="24.706" text-anchor="middle" class="" >10/22</text>
+<text x="1143.00" y="847.00" font-size="24.706" text-anchor="middle" class="" >12/10</text>
+<text x="1273.00" y="847.00" font-size="24.706" text-anchor="middle" class="" >36</text>
+<line x1="1578.571" y1="838.000" x2="1686.000" y2="838.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<line x1="1933.571" y1="838.000" x2="2041.000" y2="838.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<line x1="2288.571" y1="838.000" x2="2396.000" y2="838.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<line x1="2643.571" y1="838.000" x2="2751.000" y2="838.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<line x1="2998.571" y1="838.000" x2="3106.000" y2="838.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<line x1="3353.571" y1="838.000" x2="3461.000" y2="838.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<line x1="3708.571" y1="838.000" x2="3816.000" y2="838.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<rect class="activity" data-first="3" data-last="4" x="1483.143" y="826.000" width="95.429" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="1486.143" y1="838.000" x2="1575.571" y2="838.000" stroke-width="1.2"/>
+<rect class="activity" data-first="7" data-last="11" x="1686.000" y="826.000" width="247.571" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="1689.000" y1="838.000" x2="1930.571" y2="838.000" stroke-width="1.2"/>
+<rect class="activity" data-first="14" data-last="18" x="2041.000" y="826.000" width="247.571" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="2044.000" y1="838.000" x2="2285.571" y2="838.000" stroke-width="1.2"/>
+<rect class="activity" data-first="21" data-last="25" x="2396.000" y="826.000" width="247.571" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="2399.000" y1="838.000" x2="2640.571" y2="838.000" stroke-width="1.2"/>
+<rect class="activity" data-first="28" data-last="32" x="2751.000" y="826.000" width="247.571" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="2754.000" y1="838.000" x2="2995.571" y2="838.000" stroke-width="1.2"/>
+<rect class="activity" data-first="35" data-last="39" x="3106.000" y="826.000" width="247.571" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="3109.000" y1="838.000" x2="3350.571" y2="838.000" stroke-width="1.2"/>
+<rect class="activity" data-first="42" data-last="46" x="3461.000" y="826.000" width="247.571" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="3464.000" y1="838.000" x2="3705.571" y2="838.000" stroke-width="1.2"/>
+<rect class="activity" data-first="49" data-last="52" x="3816.000" y="826.000" width="196.857" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="3819.000" y1="838.000" x2="4009.857" y2="838.000" stroke-width="1.2"/>
+</g>
+<line x1="32.000" y1="862.000" x2="4168.000" y2="862.000" stroke-width="0.8"/>
+<rect x="33" y="863" width="1294" height="78" fill="#ffffff" style="stroke:none"/>
+<text x="42.00" y="895.00" font-size="30.000" text-anchor="start" class="heading" >3 开发与模块实现</text>
+<text x="42.00" y="927.00" font-size="22.941" text-anchor="start" class="" >10/23—11/19 · 19项活动</text>
+<line x1="1533.857" y1="903.000" x2="2947.857" y2="903.000" stroke-width="3.4"/>
+<line x1="1533.857" y1="897.000" x2="1533.857" y2="910.000" stroke-width="2.4"/>
+<line x1="2947.857" y1="897.000" x2="2947.857" y2="910.000" stroke-width="2.4"/>
+<text x="1505.50" y="884.00" font-size="24.706" text-anchor="middle" class="" >W1</text>
+<text x="1505.50" y="935.00" font-size="22.941" text-anchor="middle" class="" >10/19—10/25</text>
+<text x="1860.50" y="884.00" font-size="24.706" text-anchor="middle" class="" >W2</text>
+<text x="1860.50" y="935.00" font-size="22.941" text-anchor="middle" class="" >10/26—11/01</text>
+<text x="2215.50" y="884.00" font-size="24.706" text-anchor="middle" class="" >W3</text>
+<text x="2215.50" y="935.00" font-size="22.941" text-anchor="middle" class="" >11/02—11/08</text>
+<text x="2570.50" y="884.00" font-size="24.706" text-anchor="middle" class="" >W4</text>
+<text x="2570.50" y="935.00" font-size="22.941" text-anchor="middle" class="" >11/09—11/15</text>
+<text x="2925.50" y="884.00" font-size="24.706" text-anchor="middle" class="" >W5</text>
+<text x="2925.50" y="935.00" font-size="22.941" text-anchor="middle" class="" >11/16—11/22</text>
+<text x="3280.50" y="884.00" font-size="24.706" text-anchor="middle" class="" >W6</text>
+<text x="3280.50" y="935.00" font-size="22.941" text-anchor="middle" class="" >11/23—11/29</text>
+<text x="3635.50" y="884.00" font-size="24.706" text-anchor="middle" class="" >W7</text>
+<text x="3635.50" y="935.00" font-size="22.941" text-anchor="middle" class="" >11/30—12/06</text>
+<text x="3990.50" y="884.00" font-size="24.706" text-anchor="middle" class="" >W8</text>
+<text x="3990.50" y="935.00" font-size="22.941" text-anchor="middle" class="" >12/07—12/13</text>
+<line x1="32.000" y1="942.000" x2="4168.000" y2="942.000" stroke-width="0.8"/>
+<g id="T3-1"><title>T3.1 建立开发与本地集成环境
+计划：2026-10-23 至 2026-10-26；工期：2工作日；责任资源：R04；工作量：16人时
+前置：T2.1FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。复用通用脚手架，配置本地环境与依赖
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="976.00" font-size="24.706" text-anchor="start" class="" >T3.1</text>
+<text x="160.00" y="976.00" font-size="30.000" text-anchor="start" class="" >建立开发与本地集成环境</text>
+<text x="868.00" y="975.00" font-size="24.706" text-anchor="middle" class="" >R04</text>
+<text x="993.00" y="975.00" font-size="24.706" text-anchor="middle" class="" >10/23</text>
+<text x="1143.00" y="975.00" font-size="24.706" text-anchor="middle" class="" >10/26</text>
+<text x="1273.00" y="975.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<line x1="1578.571" y1="966.000" x2="1686.000" y2="966.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<rect class="activity" data-first="4" data-last="4" x="1533.857" y="954.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+<rect class="activity" data-first="7" data-last="7" x="1686.000" y="954.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="990.000" x2="4168.000" y2="990.000" stroke-width="0.8"/>
+<g id="T3-2"><title>T3.2 实现认证、权限和角色基础
+计划：2026-10-27 至 2026-10-29；工期：3工作日；责任资源：R01；工作量：18人时
+前置：T2.3FS; T3.1FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。认证、范围鉴权与TOTP复用成熟库，人工复核；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1024.00" font-size="24.706" text-anchor="start" class="" >T3.2</text>
+<text x="160.00" y="1024.00" font-size="30.000" text-anchor="start" class="" >实现认证、权限和角色基础</text>
+<text x="868.00" y="1023.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="1023.00" font-size="24.706" text-anchor="middle" class="" >10/27</text>
+<text x="1143.00" y="1023.00" font-size="24.706" text-anchor="middle" class="" >10/29</text>
+<text x="1273.00" y="1023.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<rect class="activity" data-first="8" data-last="10" x="1736.714" y="1002.000" width="146.143" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1038.000" x2="4168.000" y2="1038.000" stroke-width="0.8"/>
+<g id="T3-3"><title>T3.3 实现字典、地区和基准管理
+计划：2026-10-27 至 2026-10-28；工期：2工作日；责任资源：R02；工作量：9人时
+前置：T2.2FS; T3.1FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。字典及地区种子、基准版本维护；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1072.00" font-size="24.706" text-anchor="start" class="" >T3.3</text>
+<text x="160.00" y="1072.00" font-size="30.000" text-anchor="start" class="" >实现字典、地区和基准管理</text>
+<text x="868.00" y="1071.00" font-size="24.706" text-anchor="middle" class="" >R02</text>
+<text x="993.00" y="1071.00" font-size="24.706" text-anchor="middle" class="" >10/27</text>
+<text x="1143.00" y="1071.00" font-size="24.706" text-anchor="middle" class="" >10/28</text>
+<text x="1273.00" y="1071.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="8" data-last="9" x="1736.714" y="1050.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1086.000" x2="4168.000" y2="1086.000" stroke-width="0.8"/>
+<g id="T3-4"><title>T3.4 实现企业资料与备案审批
+计划：2026-10-30 至 2026-11-03；工期：3工作日；责任资源：R02；工作量：26人时
+前置：T3.2FS; T3.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。资料备案状态链、变更版本和审批界面；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1120.00" font-size="24.706" text-anchor="start" class="" >T3.4</text>
+<text x="160.00" y="1120.00" font-size="30.000" text-anchor="start" class="" >实现企业资料与备案审批</text>
+<text x="868.00" y="1119.00" font-size="24.706" text-anchor="middle" class="" >R02</text>
+<text x="993.00" y="1119.00" font-size="24.706" text-anchor="middle" class="" >10/30</text>
+<text x="1143.00" y="1119.00" font-size="24.706" text-anchor="middle" class="" >11/03</text>
+<text x="1273.00" y="1119.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<line x1="1933.571" y1="1110.000" x2="2041.000" y2="1110.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<rect class="activity" data-first="11" data-last="11" x="1888.857" y="1098.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+<rect class="activity" data-first="14" data-last="15" x="2041.000" y="1098.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1134.000" x2="4168.000" y2="1134.000" stroke-width="0.8"/>
+<g id="T3-5"><title>T3.5 实现月报草稿、校验与提交
+计划：2026-11-03 至 2026-11-05；工期：3工作日；责任资源：R02；工作量：27人时
+前置：T3.4SS+1d; T3.7FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。月报校验、幂等提交、版本与冻结快照；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1168.00" font-size="24.706" text-anchor="start" class="" >T3.5</text>
+<text x="160.00" y="1168.00" font-size="30.000" text-anchor="start" class="" >实现月报草稿、校验与提交</text>
+<text x="868.00" y="1167.00" font-size="24.706" text-anchor="middle" class="" >R02</text>
+<text x="993.00" y="1167.00" font-size="24.706" text-anchor="middle" class="" >11/03</text>
+<text x="1143.00" y="1167.00" font-size="24.706" text-anchor="middle" class="" >11/05</text>
+<text x="1273.00" y="1167.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<rect class="activity" data-first="15" data-last="17" x="2091.714" y="1146.000" width="146.143" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1182.000" x2="4168.000" y2="1182.000" stroke-width="0.8"/>
+<g id="T3-6"><title>T3.6 实现市省审核与退回重提
+计划：2026-11-04 至 2026-11-05；工期：2工作日；责任资源：R02；工作量：19人时
+前置：T3.5SS+1d；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。市省审核、退回与补报状态转换；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1216.00" font-size="24.706" text-anchor="start" class="" >T3.6</text>
+<text x="160.00" y="1216.00" font-size="30.000" text-anchor="start" class="" >实现市省审核与退回重提</text>
+<text x="868.00" y="1215.00" font-size="24.706" text-anchor="middle" class="" >R02</text>
+<text x="993.00" y="1215.00" font-size="24.706" text-anchor="middle" class="" >11/04</text>
+<text x="1143.00" y="1215.00" font-size="24.706" text-anchor="middle" class="" >11/05</text>
+<text x="1273.00" y="1215.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="16" data-last="17" x="2142.429" y="1194.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1230.000" x2="4168.000" y2="1230.000" stroke-width="0.8"/>
+<g id="T3-7"><title>T3.7 实现调查期与补报授权
+计划：2026-10-30 至 2026-11-02；工期：2工作日；责任资源：R01；工作量：14人时
+前置：T3.2FS; T3.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。调查期、补报窗口及权限，复用状态基础；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1264.00" font-size="24.706" text-anchor="start" class="" >T3.7</text>
+<text x="160.00" y="1264.00" font-size="30.000" text-anchor="start" class="" >实现调查期与补报授权</text>
+<text x="868.00" y="1263.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="1263.00" font-size="24.706" text-anchor="middle" class="" >10/30</text>
+<text x="1143.00" y="1263.00" font-size="24.706" text-anchor="middle" class="" >11/02</text>
+<text x="1273.00" y="1263.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<line x1="1933.571" y1="1254.000" x2="2041.000" y2="1254.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<rect class="activity" data-first="11" data-last="11" x="1888.857" y="1242.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+<rect class="activity" data-first="14" data-last="14" x="2041.000" y="1242.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1278.000" x2="4168.000" y2="1278.000" stroke-width="0.8"/>
+<g id="T3-8"><title>T3.8 实现独立修订与撤销链
+计划：2026-11-06 至 2026-11-10；工期：3工作日；责任资源：R01；工作量：27人时
+前置：T3.6SS+1d; T2.2FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。独立修订、生效与撤销事务、审计一致性；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1312.00" font-size="24.706" text-anchor="start" class="" >T3.8</text>
+<text x="160.00" y="1312.00" font-size="30.000" text-anchor="start" class="" >实现独立修订与撤销链</text>
+<text x="868.00" y="1311.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="1311.00" font-size="24.706" text-anchor="middle" class="" >11/06</text>
+<text x="1143.00" y="1311.00" font-size="24.706" text-anchor="middle" class="" >11/10</text>
+<text x="1273.00" y="1311.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<line x1="2288.571" y1="1302.000" x2="2396.000" y2="1302.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<rect class="activity" data-first="18" data-last="18" x="2243.857" y="1290.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+<rect class="activity" data-first="21" data-last="22" x="2396.000" y="1290.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1326.000" x2="4168.000" y2="1326.000" stroke-width="0.8"/>
+<g id="T3-9"><title>T3.9 实现历史浏览和快照查询
+计划：2026-11-06 至 2026-11-09；工期：2工作日；责任资源：R03；工作量：14人时
+前置：T3.4FS; T3.5SS+1d；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。历史查询和快照显示复用资料模块；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1360.00" font-size="24.706" text-anchor="start" class="" >T3.9</text>
+<text x="160.00" y="1360.00" font-size="30.000" text-anchor="start" class="" >实现历史浏览和快照查询</text>
+<text x="868.00" y="1359.00" font-size="24.706" text-anchor="middle" class="" >R03</text>
+<text x="993.00" y="1359.00" font-size="24.706" text-anchor="middle" class="" >11/06</text>
+<text x="1143.00" y="1359.00" font-size="24.706" text-anchor="middle" class="" >11/09</text>
+<text x="1273.00" y="1359.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<line x1="2288.571" y1="1350.000" x2="2396.000" y2="1350.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<rect class="activity" data-first="18" data-last="18" x="2243.857" y="1338.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+<rect class="activity" data-first="21" data-last="21" x="2396.000" y="1338.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1374.000" x2="4168.000" y2="1374.000" stroke-width="0.8"/>
+<g id="T3-10"><title>T3.10 实现汇总指标与统计口径
+计划：2026-11-10 至 2026-11-11；工期：2工作日；责任资源：R02；工作量：16人时
+前置：T3.8SS+1d；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。六指标、原始/修订口径及零分母规则；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1408.00" font-size="24.706" text-anchor="start" class="" >T3.10</text>
+<text x="160.00" y="1408.00" font-size="30.000" text-anchor="start" class="" >实现汇总指标与统计口径</text>
+<text x="868.00" y="1407.00" font-size="24.706" text-anchor="middle" class="" >R02</text>
+<text x="993.00" y="1407.00" font-size="24.706" text-anchor="middle" class="" >11/10</text>
+<text x="1143.00" y="1407.00" font-size="24.706" text-anchor="middle" class="" >11/11</text>
+<text x="1273.00" y="1407.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="22" data-last="23" x="2446.714" y="1386.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1422.000" x2="4168.000" y2="1422.000" stroke-width="0.8"/>
+<g id="T3-11"><title>T3.11 实现条件查询与XLSX导出
+计划：2026-11-09 至 2026-11-11；工期：3工作日；责任资源：R03；工作量：21人时
+前置：T3.9SS+1d; T2.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。13条件查询、异步导出与安全鉴权；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1456.00" font-size="24.706" text-anchor="start" class="" >T3.11</text>
+<text x="160.00" y="1456.00" font-size="30.000" text-anchor="start" class="" >实现条件查询与XLSX导出</text>
+<text x="868.00" y="1455.00" font-size="24.706" text-anchor="middle" class="" >R03</text>
+<text x="993.00" y="1455.00" font-size="24.706" text-anchor="middle" class="" >11/09</text>
+<text x="1143.00" y="1455.00" font-size="24.706" text-anchor="middle" class="" >11/11</text>
+<text x="1273.00" y="1455.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<rect class="activity" data-first="21" data-last="23" x="2396.000" y="1434.000" width="146.143" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1470.000" x2="4168.000" y2="1470.000" stroke-width="0.8"/>
+<g id="T3-12"><title>T3.12 实现各市取样与地区筛选
+计划：2026-11-18 至 2026-11-19；工期：2工作日；责任资源：R03；工作量：15人时
+前置：T3.4FS; T3.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。取样、地区过滤和同源图表复用查询；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1504.00" font-size="24.706" text-anchor="start" class="" >T3.12</text>
+<text x="160.00" y="1504.00" font-size="30.000" text-anchor="start" class="" >实现各市取样与地区筛选</text>
+<text x="868.00" y="1503.00" font-size="24.706" text-anchor="middle" class="" >R03</text>
+<text x="993.00" y="1503.00" font-size="24.706" text-anchor="middle" class="" >11/18</text>
+<text x="1143.00" y="1503.00" font-size="24.706" text-anchor="middle" class="" >11/19</text>
+<text x="1273.00" y="1503.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="30" data-last="31" x="2852.429" y="1482.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1518.000" x2="4168.000" y2="1518.000" stroke-width="0.8"/>
+<g id="T3-13"><title>T3.13 实现两期比较与连续期趋势
+计划：2026-11-17 至 2026-11-19；工期：3工作日；责任资源：R01；工作量：21人时
+前置：T3.10SS+1d；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。两期、连续期趋势与缺样本语义；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1552.00" font-size="24.706" text-anchor="start" class="" >T3.13</text>
+<text x="160.00" y="1552.00" font-size="30.000" text-anchor="start" class="" >实现两期比较与连续期趋势</text>
+<text x="868.00" y="1551.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="1551.00" font-size="24.706" text-anchor="middle" class="" >11/17</text>
+<text x="1143.00" y="1551.00" font-size="24.706" text-anchor="middle" class="" >11/19</text>
+<text x="1273.00" y="1551.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<rect class="activity" data-first="29" data-last="31" x="2801.714" y="1530.000" width="146.143" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1566.000" x2="4168.000" y2="1566.000" stroke-width="0.8"/>
+<g id="T3-14"><title>T3.14 实现通知与用户管理界面
+计划：2026-11-16 至 2026-11-17；工期：2工作日；责任资源：R03；工作量：16人时
+前置：T3.2FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。通知和账号管理界面复用权限基础；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1600.00" font-size="24.706" text-anchor="start" class="" >T3.14</text>
+<text x="160.00" y="1600.00" font-size="30.000" text-anchor="start" class="" >实现通知与用户管理界面</text>
+<text x="868.00" y="1599.00" font-size="24.706" text-anchor="middle" class="" >R03</text>
+<text x="993.00" y="1599.00" font-size="24.706" text-anchor="middle" class="" >11/16</text>
+<text x="1143.00" y="1599.00" font-size="24.706" text-anchor="middle" class="" >11/17</text>
+<text x="1273.00" y="1599.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="28" data-last="29" x="2751.000" y="1578.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1614.000" x2="4168.000" y2="1614.000" stroke-width="0.8"/>
+<g id="T3-15"><title>T3.15 实现删除恢复、脱敏与审计
+计划：2026-11-11 至 2026-11-13；工期：3工作日；责任资源：R02；工作量：23人时
+前置：T3.8FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。删除恢复、清理计时、脱敏与审计链；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1648.00" font-size="24.706" text-anchor="start" class="" >T3.15</text>
+<text x="160.00" y="1648.00" font-size="30.000" text-anchor="start" class="" >实现删除恢复、脱敏与审计</text>
+<text x="868.00" y="1647.00" font-size="24.706" text-anchor="middle" class="" >R02</text>
+<text x="993.00" y="1647.00" font-size="24.706" text-anchor="middle" class="" >11/11</text>
+<text x="1143.00" y="1647.00" font-size="24.706" text-anchor="middle" class="" >11/13</text>
+<text x="1273.00" y="1647.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<rect class="activity" data-first="23" data-last="25" x="2497.429" y="1626.000" width="146.143" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1662.000" x2="4168.000" y2="1662.000" stroke-width="0.8"/>
+<g id="T3-16"><title>T3.16 实现运行监控与指标采集
+计划：2026-10-30 至 2026-11-02；工期：2工作日；责任资源：R04；工作量：18人时
+前置：T3.1FS; T2.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。实际宿主采集与失败标识，复用监控库；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1696.00" font-size="24.706" text-anchor="start" class="" >T3.16</text>
+<text x="160.00" y="1696.00" font-size="30.000" text-anchor="start" class="" >实现运行监控与指标采集</text>
+<text x="868.00" y="1695.00" font-size="24.706" text-anchor="middle" class="" >R04</text>
+<text x="993.00" y="1695.00" font-size="24.706" text-anchor="middle" class="" >10/30</text>
+<text x="1143.00" y="1695.00" font-size="24.706" text-anchor="middle" class="" >11/02</text>
+<text x="1273.00" y="1695.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<line x1="1933.571" y1="1686.000" x2="2041.000" y2="1686.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<rect class="activity" data-first="11" data-last="11" x="1888.857" y="1674.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+<rect class="activity" data-first="14" data-last="14" x="2041.000" y="1674.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1710.000" x2="4168.000" y2="1710.000" stroke-width="0.8"/>
+<g id="T3-17"><title>T3.17 实现批次冻结与MOCK交换
+计划：2026-11-12 至 2026-11-16；工期：3工作日；责任资源：R02；工作量：21人时
+前置：T3.10SS+1d; T2.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。批次冻结、黄金摘要、MOCK回执及恢复；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1744.00" font-size="24.706" text-anchor="start" class="" >T3.17</text>
+<text x="160.00" y="1744.00" font-size="30.000" text-anchor="start" class="" >实现批次冻结与MOCK交换</text>
+<text x="868.00" y="1743.00" font-size="24.706" text-anchor="middle" class="" >R02</text>
+<text x="993.00" y="1743.00" font-size="24.706" text-anchor="middle" class="" >11/12</text>
+<text x="1143.00" y="1743.00" font-size="24.706" text-anchor="middle" class="" >11/16</text>
+<text x="1273.00" y="1743.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<line x1="2643.571" y1="1734.000" x2="2751.000" y2="1734.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<rect class="activity" data-first="24" data-last="25" x="2548.143" y="1722.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+<rect class="activity" data-first="28" data-last="28" x="2751.000" y="1722.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1758.000" x2="4168.000" y2="1758.000" stroke-width="0.8"/>
+<g id="T3-18"><title>T3.18 实现实际REAL协议适配
+计划：2026-11-12 至 2026-11-16；工期：3工作日；责任资源：R01；工作量：18人时
+前置：T2.4FS; T2.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。外部协议和验证条件未确认；不预置未经证实的模型参数。按假定已具备的真实协议实现认证、映射及传输；复用批次界面，不另行重复前端开发；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1792.00" font-size="24.706" text-anchor="start" class="" >T3.18</text>
+<text x="160.00" y="1792.00" font-size="30.000" text-anchor="start" class="" >实现实际REAL协议适配</text>
+<text x="868.00" y="1791.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="1791.00" font-size="24.706" text-anchor="middle" class="" >11/12</text>
+<text x="1143.00" y="1791.00" font-size="24.706" text-anchor="middle" class="" >11/16</text>
+<text x="1273.00" y="1791.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<line x1="2643.571" y1="1782.000" x2="2751.000" y2="1782.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<rect class="activity" data-first="24" data-last="25" x="2548.143" y="1770.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+<rect class="activity" data-first="28" data-last="28" x="2751.000" y="1770.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1806.000" x2="4168.000" y2="1806.000" stroke-width="0.8"/>
+<g id="T3-19"><title>T3.19 编写配置、部署、备份与回滚
+计划：2026-10-27 至 2026-10-29；工期：3工作日；责任资源：R04；工作量：16人时
+前置：T3.1FS; T2.2FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。部署、配置、备份、迁移和回滚脚本；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1840.00" font-size="24.706" text-anchor="start" class="" >T3.19</text>
+<text x="160.00" y="1840.00" font-size="30.000" text-anchor="start" class="" >编写配置、部署、备份与回滚</text>
+<text x="868.00" y="1839.00" font-size="24.706" text-anchor="middle" class="" >R04</text>
+<text x="993.00" y="1839.00" font-size="24.706" text-anchor="middle" class="" >10/27</text>
+<text x="1143.00" y="1839.00" font-size="24.706" text-anchor="middle" class="" >10/29</text>
+<text x="1273.00" y="1839.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<rect class="activity" data-first="8" data-last="10" x="1736.714" y="1818.000" width="146.143" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1854.000" x2="4168.000" y2="1854.000" stroke-width="0.8"/>
+<rect x="33" y="1855" width="1294" height="78" fill="#ffffff" style="stroke:none"/>
+<text x="42.00" y="1887.00" font-size="30.000" text-anchor="start" class="heading" >4 集成、测试与修复</text>
+<text x="42.00" y="1919.00" font-size="22.941" text-anchor="start" class="" >11/17—12/07 · 10项活动</text>
+<line x1="2801.714" y1="1895.000" x2="3860.714" y2="1895.000" stroke-width="3.4"/>
+<line x1="2801.714" y1="1889.000" x2="2801.714" y2="1902.000" stroke-width="2.4"/>
+<line x1="3860.714" y1="1889.000" x2="3860.714" y2="1902.000" stroke-width="2.4"/>
+<text x="1505.50" y="1876.00" font-size="24.706" text-anchor="middle" class="" >W1</text>
+<text x="1505.50" y="1927.00" font-size="22.941" text-anchor="middle" class="" >10/19—10/25</text>
+<text x="1860.50" y="1876.00" font-size="24.706" text-anchor="middle" class="" >W2</text>
+<text x="1860.50" y="1927.00" font-size="22.941" text-anchor="middle" class="" >10/26—11/01</text>
+<text x="2215.50" y="1876.00" font-size="24.706" text-anchor="middle" class="" >W3</text>
+<text x="2215.50" y="1927.00" font-size="22.941" text-anchor="middle" class="" >11/02—11/08</text>
+<text x="2570.50" y="1876.00" font-size="24.706" text-anchor="middle" class="" >W4</text>
+<text x="2570.50" y="1927.00" font-size="22.941" text-anchor="middle" class="" >11/09—11/15</text>
+<text x="2925.50" y="1876.00" font-size="24.706" text-anchor="middle" class="" >W5</text>
+<text x="2925.50" y="1927.00" font-size="22.941" text-anchor="middle" class="" >11/16—11/22</text>
+<text x="3280.50" y="1876.00" font-size="24.706" text-anchor="middle" class="" >W6</text>
+<text x="3280.50" y="1927.00" font-size="22.941" text-anchor="middle" class="" >11/23—11/29</text>
+<text x="3635.50" y="1876.00" font-size="24.706" text-anchor="middle" class="" >W7</text>
+<text x="3635.50" y="1927.00" font-size="22.941" text-anchor="middle" class="" >11/30—12/06</text>
+<text x="3990.50" y="1876.00" font-size="24.706" text-anchor="middle" class="" >W8</text>
+<text x="3990.50" y="1927.00" font-size="22.941" text-anchor="middle" class="" >12/07—12/13</text>
+<line x1="32.000" y1="1934.000" x2="4168.000" y2="1934.000" stroke-width="0.8"/>
+<g id="T4-1"><title>T4.1 评审主业务链阶段成果
+计划：2026-11-20 至 2026-11-20；工期：1工作日；责任资源：R01；工作量：12人时
+前置：T3.6FS; T3.7FS; T3.14FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。四人阶段评审、检查AC与未解决问题
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="1968.00" font-size="24.706" text-anchor="start" class="" >T4.1</text>
+<text x="160.00" y="1968.00" font-size="30.000" text-anchor="start" class="" >评审主业务链阶段成果</text>
+<text x="868.00" y="1967.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="1967.00" font-size="24.706" text-anchor="middle" class="" >11/20</text>
+<text x="1143.00" y="1967.00" font-size="24.706" text-anchor="middle" class="" >11/20</text>
+<text x="1273.00" y="1967.00" font-size="24.706" text-anchor="middle" class="" >1</text>
+<rect class="activity" data-first="32" data-last="32" x="2953.857" y="1946.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="1982.000" x2="4168.000" y2="1982.000" stroke-width="0.8"/>
+<g id="T4-2"><title>T4.2 完成本地模块集成
+计划：2026-11-23 至 2026-11-24；工期：2工作日；责任资源：R02；工作量：34人时
+前置：T3.11FS; T3.13FS; T3.15FS; T3.16FS; T3.17FS; T3.19FS; T4.1FS; T3.12FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。多模块集成、数据一致性和联调
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2016.00" font-size="24.706" text-anchor="start" class="" >T4.2</text>
+<text x="160.00" y="2016.00" font-size="30.000" text-anchor="start" class="" >完成本地模块集成</text>
+<text x="868.00" y="2015.00" font-size="24.706" text-anchor="middle" class="" >R02</text>
+<text x="993.00" y="2015.00" font-size="24.706" text-anchor="middle" class="" >11/23</text>
+<text x="1143.00" y="2015.00" font-size="24.706" text-anchor="middle" class="" >11/24</text>
+<text x="1273.00" y="2015.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="35" data-last="36" x="3106.000" y="1994.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2030.000" x2="4168.000" y2="2030.000" stroke-width="0.8"/>
+<g id="T4-3"><title>T4.3 执行业务功能与边界测试
+计划：2026-11-30 至 2026-12-02；工期：3工作日；责任资源：R04；工作量：36人时
+前置：T4.2FS; T1.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。QA主导，开发人员并行执行AC-01至09
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2064.00" font-size="24.706" text-anchor="start" class="" >T4.3</text>
+<text x="160.00" y="2064.00" font-size="30.000" text-anchor="start" class="" >执行业务功能与边界测试</text>
+<text x="868.00" y="2063.00" font-size="24.706" text-anchor="middle" class="" >R04</text>
+<text x="993.00" y="2063.00" font-size="24.706" text-anchor="middle" class="" >11/30</text>
+<text x="1143.00" y="2063.00" font-size="24.706" text-anchor="middle" class="" >12/02</text>
+<text x="1273.00" y="2063.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<rect class="activity" data-first="42" data-last="44" x="3461.000" y="2042.000" width="146.143" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2078.000" x2="4168.000" y2="2078.000" stroke-width="0.8"/>
+<g id="T4-4"><title>T4.4 验证MOCK回执与黄金摘要
+计划：2026-11-17 至 2026-11-18；工期：2工作日；责任资源：R04；工作量：16人时
+前置：T3.17FS; T1.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。黄金摘要、回执超时与恢复测试
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2112.00" font-size="24.706" text-anchor="start" class="" >T4.4</text>
+<text x="160.00" y="2112.00" font-size="30.000" text-anchor="start" class="" >验证MOCK回执与黄金摘要</text>
+<text x="868.00" y="2111.00" font-size="24.706" text-anchor="middle" class="" >R04</text>
+<text x="993.00" y="2111.00" font-size="24.706" text-anchor="middle" class="" >11/17</text>
+<text x="1143.00" y="2111.00" font-size="24.706" text-anchor="middle" class="" >11/18</text>
+<text x="1273.00" y="2111.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="29" data-last="30" x="2801.714" y="2090.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2126.000" x2="4168.000" y2="2126.000" stroke-width="0.8"/>
+<g id="T4-5"><title>T4.5 完成实际国家交换验证
+计划：2026-11-19 至 2026-11-20；工期：2工作日；责任资源：R04；工作量：20人时
+前置：T3.18FS; T2.4FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。外部协议和验证条件未确认；不预置未经证实的模型参数。计划受控真实交换验证；不填实际通过记录；按模块专长重新分工，测试部署成员兼工具及自动化开发
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2160.00" font-size="24.706" text-anchor="start" class="" >T4.5</text>
+<text x="160.00" y="2160.00" font-size="30.000" text-anchor="start" class="" >完成实际国家交换验证</text>
+<text x="868.00" y="2159.00" font-size="24.706" text-anchor="middle" class="" >R04</text>
+<text x="993.00" y="2159.00" font-size="24.706" text-anchor="middle" class="" >11/19</text>
+<text x="1143.00" y="2159.00" font-size="24.706" text-anchor="middle" class="" >11/20</text>
+<text x="1273.00" y="2159.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="31" data-last="32" x="2903.143" y="2138.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2174.000" x2="4168.000" y2="2174.000" stroke-width="0.8"/>
+<g id="T4-6"><title>T4.6 验证安全、认证和并发一致性
+计划：2026-11-25 至 2026-11-27；工期：3工作日；责任资源：R04；工作量：28人时
+前置：T4.2FS; T1.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。QA制定用例，PM与后端分担鉴权和并发验证
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2208.00" font-size="24.706" text-anchor="start" class="" >T4.6</text>
+<text x="160.00" y="2208.00" font-size="30.000" text-anchor="start" class="" >验证安全、认证和并发一致性</text>
+<text x="868.00" y="2207.00" font-size="24.706" text-anchor="middle" class="" >R04</text>
+<text x="993.00" y="2207.00" font-size="24.706" text-anchor="middle" class="" >11/25</text>
+<text x="1143.00" y="2207.00" font-size="24.706" text-anchor="middle" class="" >11/27</text>
+<text x="1273.00" y="2207.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<rect class="activity" data-first="37" data-last="39" x="3207.429" y="2186.000" width="146.143" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2222.000" x2="4168.000" y2="2222.000" stroke-width="0.8"/>
+<g id="T4-7"><title>T4.7 执行容量、性能与导出测试
+计划：2026-11-25 至 2026-11-27；工期：3工作日；责任资源：R04；工作量：24人时
+前置：T4.2FS; T1.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。独立负载机、合成60万月报与200并发
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2256.00" font-size="24.706" text-anchor="start" class="" >T4.7</text>
+<text x="160.00" y="2256.00" font-size="30.000" text-anchor="start" class="" >执行容量、性能与导出测试</text>
+<text x="868.00" y="2255.00" font-size="24.706" text-anchor="middle" class="" >R04</text>
+<text x="993.00" y="2255.00" font-size="24.706" text-anchor="middle" class="" >11/25</text>
+<text x="1143.00" y="2255.00" font-size="24.706" text-anchor="middle" class="" >11/27</text>
+<text x="1273.00" y="2255.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<rect class="activity" data-first="37" data-last="39" x="3207.429" y="2234.000" width="146.143" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2270.000" x2="4168.000" y2="2270.000" stroke-width="0.8"/>
+<g id="T4-8"><title>T4.8 验证备份恢复与72小时运行
+计划：2026-11-27 至 2026-12-02；工期：4工作日；责任资源：R04；工作量：16人时
+前置：T4.2FS; T3.19FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。4工作日覆盖不少于72自然小时，自动监测；人时只计配置、观察和恢复演练
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2304.00" font-size="24.706" text-anchor="start" class="" >T4.8</text>
+<text x="160.00" y="2304.00" font-size="30.000" text-anchor="start" class="" >验证备份恢复与72小时运行</text>
+<text x="868.00" y="2303.00" font-size="24.706" text-anchor="middle" class="" >R04</text>
+<text x="993.00" y="2303.00" font-size="24.706" text-anchor="middle" class="" >11/27</text>
+<text x="1143.00" y="2303.00" font-size="24.706" text-anchor="middle" class="" >12/02</text>
+<text x="1273.00" y="2303.00" font-size="24.706" text-anchor="middle" class="" >4</text>
+<line x1="3353.571" y1="2294.000" x2="3461.000" y2="2294.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<rect class="activity" data-first="39" data-last="39" x="3308.857" y="2282.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+<rect class="activity" data-first="42" data-last="44" x="3461.000" y="2282.000" width="146.143" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2318.000" x2="4168.000" y2="2318.000" stroke-width="0.8"/>
+<g id="T4-9"><title>T4.9 验证兼容、部署与监控
+计划：2026-11-25 至 2026-11-26；工期：2工作日；责任资源：R04；工作量：16人时
+前置：T4.2FS; T3.16FS; T3.19FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。兼容、导出、部署和实际监控证据
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2352.00" font-size="24.706" text-anchor="start" class="" >T4.9</text>
+<text x="160.00" y="2352.00" font-size="30.000" text-anchor="start" class="" >验证兼容、部署与监控</text>
+<text x="868.00" y="2351.00" font-size="24.706" text-anchor="middle" class="" >R04</text>
+<text x="993.00" y="2351.00" font-size="24.706" text-anchor="middle" class="" >11/25</text>
+<text x="1143.00" y="2351.00" font-size="24.706" text-anchor="middle" class="" >11/26</text>
+<text x="1273.00" y="2351.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="37" data-last="38" x="3207.429" y="2330.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2366.000" x2="4168.000" y2="2366.000" stroke-width="0.8"/>
+<g id="T4-10"><title>T4.10 修复缺陷并复核需求覆盖
+计划：2026-12-03 至 2026-12-07；工期：3工作日；责任资源：R02；工作量：56人时
+前置：T4.3FS; T4.4FS; T4.6FS; T4.7FS; T4.8FS; T4.9FS; T4.5FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。按既有模块预留56人时修复与全量回归
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2400.00" font-size="24.706" text-anchor="start" class="" >T4.10</text>
+<text x="160.00" y="2400.00" font-size="30.000" text-anchor="start" class="" >修复缺陷并复核需求覆盖</text>
+<text x="868.00" y="2399.00" font-size="24.706" text-anchor="middle" class="" >R02</text>
+<text x="993.00" y="2399.00" font-size="24.706" text-anchor="middle" class="" >12/03</text>
+<text x="1143.00" y="2399.00" font-size="24.706" text-anchor="middle" class="" >12/07</text>
+<text x="1273.00" y="2399.00" font-size="24.706" text-anchor="middle" class="" >3</text>
+<line x1="3708.571" y1="2390.000" x2="3816.000" y2="2390.000" stroke-width="1.2" stroke-dasharray="6 6"/>
+<rect class="activity" data-first="45" data-last="46" x="3613.143" y="2378.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+<rect class="activity" data-first="49" data-last="49" x="3816.000" y="2378.000" width="44.714" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2414.000" x2="4168.000" y2="2414.000" stroke-width="0.8"/>
+<rect x="33" y="2415" width="1294" height="78" fill="#ffffff" style="stroke:none"/>
+<text x="42.00" y="2447.00" font-size="30.000" text-anchor="start" class="heading" >5 部署、培训与交付</text>
+<text x="42.00" y="2479.00" font-size="22.941" text-anchor="start" class="" >11/23—12/11 · 7项活动</text>
+<line x1="3106.000" y1="2455.000" x2="4063.571" y2="2455.000" stroke-width="3.4"/>
+<line x1="3106.000" y1="2449.000" x2="3106.000" y2="2462.000" stroke-width="2.4"/>
+<line x1="4063.571" y1="2449.000" x2="4063.571" y2="2462.000" stroke-width="2.4"/>
+<text x="1505.50" y="2436.00" font-size="24.706" text-anchor="middle" class="" >W1</text>
+<text x="1505.50" y="2487.00" font-size="22.941" text-anchor="middle" class="" >10/19—10/25</text>
+<text x="1860.50" y="2436.00" font-size="24.706" text-anchor="middle" class="" >W2</text>
+<text x="1860.50" y="2487.00" font-size="22.941" text-anchor="middle" class="" >10/26—11/01</text>
+<text x="2215.50" y="2436.00" font-size="24.706" text-anchor="middle" class="" >W3</text>
+<text x="2215.50" y="2487.00" font-size="22.941" text-anchor="middle" class="" >11/02—11/08</text>
+<text x="2570.50" y="2436.00" font-size="24.706" text-anchor="middle" class="" >W4</text>
+<text x="2570.50" y="2487.00" font-size="22.941" text-anchor="middle" class="" >11/09—11/15</text>
+<text x="2925.50" y="2436.00" font-size="24.706" text-anchor="middle" class="" >W5</text>
+<text x="2925.50" y="2487.00" font-size="22.941" text-anchor="middle" class="" >11/16—11/22</text>
+<text x="3280.50" y="2436.00" font-size="24.706" text-anchor="middle" class="" >W6</text>
+<text x="3280.50" y="2487.00" font-size="22.941" text-anchor="middle" class="" >11/23—11/29</text>
+<text x="3635.50" y="2436.00" font-size="24.706" text-anchor="middle" class="" >W7</text>
+<text x="3635.50" y="2487.00" font-size="22.941" text-anchor="middle" class="" >11/30—12/06</text>
+<text x="3990.50" y="2436.00" font-size="24.706" text-anchor="middle" class="" >W8</text>
+<text x="3990.50" y="2487.00" font-size="22.941" text-anchor="middle" class="" >12/07—12/13</text>
+<line x1="32.000" y1="2494.000" x2="4168.000" y2="2494.000" stroke-width="0.8"/>
+<g id="T5-1"><title>T5.1 部署拟定试运行环境
+计划：2026-11-23 至 2026-11-24；工期：2工作日；责任资源：R01；工作量：16人时
+前置：T4.2SS; T3.19FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。仿真独立试运行环境与部署窗口；按模块专长重新分工，测试部署成员兼工具及自动化开发；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2528.00" font-size="24.706" text-anchor="start" class="" >T5.1</text>
+<text x="160.00" y="2528.00" font-size="30.000" text-anchor="start" class="" >部署拟定试运行环境</text>
+<text x="868.00" y="2527.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="2527.00" font-size="24.706" text-anchor="middle" class="" >11/23</text>
+<text x="1143.00" y="2527.00" font-size="24.706" text-anchor="middle" class="" >11/24</text>
+<text x="1273.00" y="2527.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="35" data-last="36" x="3106.000" y="2506.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2542.000" x2="4168.000" y2="2542.000" stroke-width="0.8"/>
+<g id="T5-2"><title>T5.2 安排业务试运行与反馈
+计划：2026-12-08 至 2026-12-09；工期：2工作日；责任资源：R01；工作量：18人时
+前置：T4.10FS; T5.1FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。用合成数据模拟业务试运行和反馈
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2576.00" font-size="24.706" text-anchor="start" class="" >T5.2</text>
+<text x="160.00" y="2576.00" font-size="30.000" text-anchor="start" class="" >安排业务试运行与反馈</text>
+<text x="868.00" y="2575.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="2575.00" font-size="24.706" text-anchor="middle" class="" >12/08</text>
+<text x="1143.00" y="2575.00" font-size="24.706" text-anchor="middle" class="" >12/09</text>
+<text x="1273.00" y="2575.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="50" data-last="51" x="3866.714" y="2554.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2590.000" x2="4168.000" y2="2590.000" stroke-width="0.8"/>
+<g id="T5-3"><title>T5.3 编写操作与开发维护说明
+计划：2026-11-30 至 2026-12-03；工期：4工作日；责任资源：R01；工作量：32人时
+前置：T4.1FS; T1.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。四角色操作手册及维护说明
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2624.00" font-size="24.706" text-anchor="start" class="" >T5.3</text>
+<text x="160.00" y="2624.00" font-size="30.000" text-anchor="start" class="" >编写操作与开发维护说明</text>
+<text x="868.00" y="2623.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="2623.00" font-size="24.706" text-anchor="middle" class="" >11/30</text>
+<text x="1143.00" y="2623.00" font-size="24.706" text-anchor="middle" class="" >12/03</text>
+<text x="1273.00" y="2623.00" font-size="24.706" text-anchor="middle" class="" >4</text>
+<rect class="activity" data-first="42" data-last="45" x="3461.000" y="2602.000" width="196.857" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2638.000" x2="4168.000" y2="2638.000" stroke-width="0.8"/>
+<g id="T5-4"><title>T5.4 安排操作培训与演示
+计划：2026-12-10 至 2026-12-10；工期：1工作日；责任资源：R01；工作量：8人时
+前置：T4.10FS; T5.3FS；Project关键任务：是
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。一次远程培训演示，无实际参加记录
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2672.00" font-size="24.706" text-anchor="start" class="" >*T5.4</text>
+<text x="160.00" y="2672.00" font-size="30.000" text-anchor="start" class="" >安排操作培训与演示</text>
+<text x="868.00" y="2671.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="2671.00" font-size="24.706" text-anchor="middle" class="" >12/10</text>
+<text x="1143.00" y="2671.00" font-size="24.706" text-anchor="middle" class="" >12/10</text>
+<text x="1273.00" y="2671.00" font-size="24.706" text-anchor="middle" class="" >1</text>
+<rect class="activity" data-first="52" data-last="52" x="3968.143" y="2650.000" width="44.714" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="3971.143" y1="2662.000" x2="4009.857" y2="2662.000" stroke-width="1.2"/>
+</g>
+<line x1="32.000" y1="2686.000" x2="4168.000" y2="2686.000" stroke-width="0.8"/>
+<g id="T5-5"><title>T5.5 整理代码、配置和验证证据
+计划：2026-12-08 至 2026-12-09；工期：2工作日；责任资源：R04；工作量：18人时
+前置：T4.10FS; T5.3FS；Project关键任务：否
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。代码、配置、构建和证据包移交准备
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2720.00" font-size="24.706" text-anchor="start" class="" >T5.5</text>
+<text x="160.00" y="2720.00" font-size="30.000" text-anchor="start" class="" >整理代码、配置和验证证据</text>
+<text x="868.00" y="2719.00" font-size="24.706" text-anchor="middle" class="" >R04</text>
+<text x="993.00" y="2719.00" font-size="24.706" text-anchor="middle" class="" >12/08</text>
+<text x="1143.00" y="2719.00" font-size="24.706" text-anchor="middle" class="" >12/09</text>
+<text x="1273.00" y="2719.00" font-size="24.706" text-anchor="middle" class="" >2</text>
+<rect class="activity" data-first="50" data-last="51" x="3866.714" y="2698.000" width="95.429" height="24" fill="#ffffff" stroke-width="2.4"/>
+</g>
+<line x1="32.000" y1="2734.000" x2="4168.000" y2="2734.000" stroke-width="0.8"/>
+<g id="T5-6"><title>T5.6 完成最终项目验收
+计划：2026-12-11 至 2026-12-11；工期：1工作日；责任资源：R01；工作量：12人时
+前置：T5.2FS; T5.4FS; T5.5FS; T4.5FS；Project关键任务：是
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。外部协议和验证条件未确认；不预置未经证实的模型参数。全范围验收评审，必须含AC-10B计划证据
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2768.00" font-size="24.706" text-anchor="start" class="" >*T5.6</text>
+<text x="160.00" y="2768.00" font-size="30.000" text-anchor="start" class="" >完成最终项目验收</text>
+<text x="868.00" y="2767.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="2767.00" font-size="24.706" text-anchor="middle" class="" >12/11</text>
+<text x="1143.00" y="2767.00" font-size="24.706" text-anchor="middle" class="" >12/11</text>
+<text x="1273.00" y="2767.00" font-size="24.706" text-anchor="middle" class="" >1</text>
+<rect class="activity" data-first="53" data-last="53" x="4018.857" y="2746.000" width="44.714" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="4021.857" y1="2758.000" x2="4060.571" y2="2758.000" stroke-width="1.2"/>
+</g>
+<line x1="32.000" y1="2782.000" x2="4168.000" y2="2782.000" stroke-width="0.8"/>
+<g id="T5-7"><title>T5.7 汇总8周模拟的最终项目计划
+计划：2026-12-11 至 2026-12-11；工期：1工作日；责任资源：R01；工作量：8人时
+前置：T1.2FS; T2.5FS; T5.6SS；Project关键任务：是
+条件：自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。项目经理和QA并行复核最终计划，与仿真验收安排同日定稿；不等待或虚构实际执行结果；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成
+状态：模拟计划，未填写实际执行结果</title>
+<text x="42.00" y="2816.00" font-size="24.706" text-anchor="start" class="" >*T5.7</text>
+<text x="160.00" y="2816.00" font-size="30.000" text-anchor="start" class="" >汇总8周模拟的最终项目计划</text>
+<text x="868.00" y="2815.00" font-size="24.706" text-anchor="middle" class="" >R01</text>
+<text x="993.00" y="2815.00" font-size="24.706" text-anchor="middle" class="" >12/11</text>
+<text x="1143.00" y="2815.00" font-size="24.706" text-anchor="middle" class="" >12/11</text>
+<text x="1273.00" y="2815.00" font-size="24.706" text-anchor="middle" class="" >1</text>
+<rect class="activity" data-first="53" data-last="53" x="4018.857" y="2794.000" width="44.714" height="24" fill="#ffffff" stroke-width="3.4"/>
+<line x1="4021.857" y1="2806.000" x2="4060.571" y2="2806.000" stroke-width="1.2"/>
+</g>
+<line x1="32.000" y1="2830.000" x2="4168.000" y2="2830.000" stroke-width="0.8"/>
+<text x="42.00" y="2871.00" font-size="24.706" text-anchor="start" class="" >注记</text>
+<text x="160.00" y="2871.00" font-size="30.000" text-anchor="start" class="" >材料归档日期（用户约定）</text>
+<text x="1143.00" y="2871.00" font-size="24.706" text-anchor="middle" class="" >12/13</text>
+<polygon points="4142.642857142857,2850 4154.642857142857,2862 4142.642857142857,2874 4130.642857142857,2862" fill="#ffffff" stroke-width="2.4"/>
+<line x1="32.000" y1="2894.000" x2="4168.000" y2="2894.000" stroke-width="1.6"/>
+<text x="32.00" y="2937.00" font-size="22.941" text-anchor="start" class="" >资源：R01 项目经理；R02 后端；R03 前端；R04 测试部署。任务工期按原计划工作日计算，跨周虚线不计投入工时。</text>
+<text x="32.00" y="2975.00" font-size="22.941" text-anchor="start" class="" >条件：T3.18、T4.5及T5.6依赖真实交换输入与相应证据；实际开发成果和验收结果按事实另行登记。</text>
+<text x="32.00" y="3013.00" font-size="22.941" text-anchor="start" class="" >来源：现行项目计划表“任务与甘特”“日期甘特”；SRS V1.2／计划 V1.1／CM-R3。任务依赖保留在SVG提示中。</text>
+<text x="32.00" y="3051.00" font-size="22.941" text-anchor="start" class="" >版式：56日完整时间轴；仅工作日绘制活动条。原计划日期、工期、资源、工时与费用保持不变。</text>
+<metadata>{&quot;source&quot;: &quot;项目计划/提交文件/项目计划表_四人仿真.xlsx&quot;, &quot;source_sha256&quot;: &quot;8d11c17e1055edc481b8a28309e582bd2aa05328aa60325bd982888925b1c4b2&quot;, &quot;schedule_revision&quot;: &quot;CM-R3&quot;, &quot;layout&quot;: &quot;wide-calendar&quot;, &quot;tasks&quot;: [{&quot;id&quot;: &quot;T1.1&quot;, &quot;name&quot;: &quot;核对需求范围与覆盖&quot;, &quot;predecessor&quot;: &quot;无&quot;, &quot;phase&quot;: &quot;需求&quot;, &quot;duration&quot;: 1, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 20, &quot;start&quot;: &quot;2026-10-19&quot;, &quot;finish&quot;: &quot;2026-10-19&quot;, &quot;critical&quot;: true, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。已有SRS逐条确认43项需求、范围和验收映射，四人并行核对&quot;, &quot;source_row&quot;: 7, &quot;first&quot;: 0, &quot;last&quot;: 0, &quot;active_calendar_columns&quot;: [0]}, {&quot;id&quot;: &quot;T1.2&quot;, &quot;name&quot;: &quot;形成WBS与项目计划初稿&quot;, &quot;predecessor&quot;: &quot;T1.1FS&quot;, &quot;phase&quot;: &quot;计划&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 10, &quot;start&quot;: &quot;2026-10-20&quot;, &quot;finish&quot;: &quot;2026-10-21&quot;, &quot;critical&quot;: true, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。四项计划、WBS与预算编制，项目经理主导，QA复核2小时&quot;, &quot;source_row&quot;: 8, &quot;first&quot;: 1, &quot;last&quot;: 2, &quot;active_calendar_columns&quot;: [1, 2]}, {&quot;id&quot;: &quot;T1.3&quot;, &quot;name&quot;: &quot;编写测试大纲与合成数据方案&quot;, &quot;predecessor&quot;: &quot;T1.1FS&quot;, &quot;phase&quot;: &quot;质量策划&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R04&quot;, &quot;hours&quot;: 18, &quot;start&quot;: &quot;2026-10-20&quot;, &quot;finish&quot;: &quot;2026-10-22&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。14组验收、边界数据、压力数据方案&quot;, &quot;source_row&quot;: 9, &quot;first&quot;: 1, &quot;last&quot;: 3, &quot;active_calendar_columns&quot;: [1, 2, 3]}, {&quot;id&quot;: &quot;T2.1&quot;, &quot;name&quot;: &quot;总体架构与模块设计&quot;, &quot;predecessor&quot;: &quot;T1.1FS&quot;, &quot;phase&quot;: &quot;设计&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R02&quot;, &quot;hours&quot;: 26, &quot;start&quot;: &quot;2026-10-20&quot;, &quot;finish&quot;: &quot;2026-10-21&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。分层架构、权限边界和状态流设计，QA参加2小时可测性评审&quot;, &quot;source_row&quot;: 10, &quot;first&quot;: 1, &quot;last&quot;: 2, &quot;active_calendar_columns&quot;: [1, 2]}, {&quot;id&quot;: &quot;T2.2&quot;, &quot;name&quot;: &quot;数据模型、版本与事务设计&quot;, &quot;predecessor&quot;: &quot;T2.1FS&quot;, &quot;phase&quot;: &quot;设计&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R02&quot;, &quot;hours&quot;: 16, &quot;start&quot;: &quot;2026-10-22&quot;, &quot;finish&quot;: &quot;2026-10-23&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。版本、事务、冻结快照和审计模型设计&quot;, &quot;source_row&quot;: 11, &quot;first&quot;: 3, &quot;last&quot;: 4, &quot;active_calendar_columns&quot;: [3, 4]}, {&quot;id&quot;: &quot;T2.3&quot;, &quot;name&quot;: &quot;内部接口与导出契约设计&quot;, &quot;predecessor&quot;: &quot;T2.1FS&quot;, &quot;phase&quot;: &quot;设计&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 16, &quot;start&quot;: &quot;2026-10-22&quot;, &quot;finish&quot;: &quot;2026-10-23&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。已有SRS契约细化、错误码及导出接口设计&quot;, &quot;source_row&quot;: 12, &quot;first&quot;: 3, &quot;last&quot;: 4, &quot;active_calendar_columns&quot;: [3, 4]}, {&quot;id&quot;: &quot;T2.4&quot;, &quot;name&quot;: &quot;确认国家真实交换输入&quot;, &quot;predecessor&quot;: &quot;T1.1FS&quot;, &quot;phase&quot;: &quot;外部输入&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 10, &quot;start&quot;: &quot;2026-10-26&quot;, &quot;finish&quot;: &quot;2026-10-28&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。外部协议和验证条件未确认；不预置未经证实的模型参数。仿真假设W2具备协议、端点、测试凭据和字段映射&quot;, &quot;source_row&quot;: 13, &quot;first&quot;: 5, &quot;last&quot;: 7, &quot;active_calendar_columns&quot;: [7, 8, 9]}, {&quot;id&quot;: &quot;T2.5&quot;, &quot;name&quot;: &quot;维护计划与配置版本&quot;, &quot;predecessor&quot;: &quot;T1.2FS&quot;, &quot;phase&quot;: &quot;计划迭代&quot;, &quot;duration&quot;: 36, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 36, &quot;start&quot;: &quot;2026-10-22&quot;, &quot;finish&quot;: &quot;2026-12-10&quot;, &quot;critical&quot;: true, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。D4–D39每日1小时配置、计划、风险和成本跟踪&quot;, &quot;source_row&quot;: 14, &quot;first&quot;: 3, &quot;last&quot;: 38, &quot;active_calendar_columns&quot;: [3, 4, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18, 21, 22, 23, 24, 25, 28, 29, 30, 31, 32, 35, 36, 37, 38, 39, 42, 43, 44, 45, 46, 49, 50, 51, 52]}, {&quot;id&quot;: &quot;T3.1&quot;, &quot;name&quot;: &quot;建立开发与本地集成环境&quot;, &quot;predecessor&quot;: &quot;T2.1FS&quot;, &quot;phase&quot;: &quot;开发准备&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R04&quot;, &quot;hours&quot;: 16, &quot;start&quot;: &quot;2026-10-23&quot;, &quot;finish&quot;: &quot;2026-10-26&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。复用通用脚手架，配置本地环境与依赖&quot;, &quot;source_row&quot;: 15, &quot;first&quot;: 4, &quot;last&quot;: 5, &quot;active_calendar_columns&quot;: [4, 7]}, {&quot;id&quot;: &quot;T3.2&quot;, &quot;name&quot;: &quot;实现认证、权限和角色基础&quot;, &quot;predecessor&quot;: &quot;T2.3FS; T3.1FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 18, &quot;start&quot;: &quot;2026-10-27&quot;, &quot;finish&quot;: &quot;2026-10-29&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。认证、范围鉴权与TOTP复用成熟库，人工复核；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用&quot;, &quot;source_row&quot;: 16, &quot;first&quot;: 6, &quot;last&quot;: 8, &quot;active_calendar_columns&quot;: [8, 9, 10]}, {&quot;id&quot;: &quot;T3.3&quot;, &quot;name&quot;: &quot;实现字典、地区和基准管理&quot;, &quot;predecessor&quot;: &quot;T2.2FS; T3.1FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R02&quot;, &quot;hours&quot;: 9, &quot;start&quot;: &quot;2026-10-27&quot;, &quot;finish&quot;: &quot;2026-10-28&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。字典及地区种子、基准版本维护；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用&quot;, &quot;source_row&quot;: 17, &quot;first&quot;: 6, &quot;last&quot;: 7, &quot;active_calendar_columns&quot;: [8, 9]}, {&quot;id&quot;: &quot;T3.4&quot;, &quot;name&quot;: &quot;实现企业资料与备案审批&quot;, &quot;predecessor&quot;: &quot;T3.2FS; T3.3FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R02&quot;, &quot;hours&quot;: 26, &quot;start&quot;: &quot;2026-10-30&quot;, &quot;finish&quot;: &quot;2026-11-03&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。资料备案状态链、变更版本和审批界面；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用&quot;, &quot;source_row&quot;: 18, &quot;first&quot;: 9, &quot;last&quot;: 11, &quot;active_calendar_columns&quot;: [11, 14, 15]}, {&quot;id&quot;: &quot;T3.5&quot;, &quot;name&quot;: &quot;实现月报草稿、校验与提交&quot;, &quot;predecessor&quot;: &quot;T3.4SS+1d; T3.7FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R02&quot;, &quot;hours&quot;: 27, &quot;start&quot;: &quot;2026-11-03&quot;, &quot;finish&quot;: &quot;2026-11-05&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。月报校验、幂等提交、版本与冻结快照；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成&quot;, &quot;source_row&quot;: 19, &quot;first&quot;: 11, &quot;last&quot;: 13, &quot;active_calendar_columns&quot;: [15, 16, 17]}, {&quot;id&quot;: &quot;T3.6&quot;, &quot;name&quot;: &quot;实现市省审核与退回重提&quot;, &quot;predecessor&quot;: &quot;T3.5SS+1d&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R02&quot;, &quot;hours&quot;: 19, &quot;start&quot;: &quot;2026-11-04&quot;, &quot;finish&quot;: &quot;2026-11-05&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。市省审核、退回与补报状态转换；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成&quot;, &quot;source_row&quot;: 20, &quot;first&quot;: 12, &quot;last&quot;: 13, &quot;active_calendar_columns&quot;: [16, 17]}, {&quot;id&quot;: &quot;T3.7&quot;, &quot;name&quot;: &quot;实现调查期与补报授权&quot;, &quot;predecessor&quot;: &quot;T3.2FS; T3.3FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 14, &quot;start&quot;: &quot;2026-10-30&quot;, &quot;finish&quot;: &quot;2026-11-02&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。调查期、补报窗口及权限，复用状态基础；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用&quot;, &quot;source_row&quot;: 21, &quot;first&quot;: 9, &quot;last&quot;: 10, &quot;active_calendar_columns&quot;: [11, 14]}, {&quot;id&quot;: &quot;T3.8&quot;, &quot;name&quot;: &quot;实现独立修订与撤销链&quot;, &quot;predecessor&quot;: &quot;T3.6SS+1d; T2.2FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 27, &quot;start&quot;: &quot;2026-11-06&quot;, &quot;finish&quot;: &quot;2026-11-10&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。独立修订、生效与撤销事务、审计一致性；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成&quot;, &quot;source_row&quot;: 22, &quot;first&quot;: 14, &quot;last&quot;: 16, &quot;active_calendar_columns&quot;: [18, 21, 22]}, {&quot;id&quot;: &quot;T3.9&quot;, &quot;name&quot;: &quot;实现历史浏览和快照查询&quot;, &quot;predecessor&quot;: &quot;T3.4FS; T3.5SS+1d&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R03&quot;, &quot;hours&quot;: 14, &quot;start&quot;: &quot;2026-11-06&quot;, &quot;finish&quot;: &quot;2026-11-09&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。历史查询和快照显示复用资料模块；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成&quot;, &quot;source_row&quot;: 23, &quot;first&quot;: 14, &quot;last&quot;: 15, &quot;active_calendar_columns&quot;: [18, 21]}, {&quot;id&quot;: &quot;T3.10&quot;, &quot;name&quot;: &quot;实现汇总指标与统计口径&quot;, &quot;predecessor&quot;: &quot;T3.8SS+1d&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R02&quot;, &quot;hours&quot;: 16, &quot;start&quot;: &quot;2026-11-10&quot;, &quot;finish&quot;: &quot;2026-11-11&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。六指标、原始/修订口径及零分母规则；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成&quot;, &quot;source_row&quot;: 24, &quot;first&quot;: 16, &quot;last&quot;: 17, &quot;active_calendar_columns&quot;: [22, 23]}, {&quot;id&quot;: &quot;T3.11&quot;, &quot;name&quot;: &quot;实现条件查询与XLSX导出&quot;, &quot;predecessor&quot;: &quot;T3.9SS+1d; T2.3FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R03&quot;, &quot;hours&quot;: 21, &quot;start&quot;: &quot;2026-11-09&quot;, &quot;finish&quot;: &quot;2026-11-11&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。13条件查询、异步导出与安全鉴权；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成&quot;, &quot;source_row&quot;: 25, &quot;first&quot;: 15, &quot;last&quot;: 17, &quot;active_calendar_columns&quot;: [21, 22, 23]}, {&quot;id&quot;: &quot;T3.12&quot;, &quot;name&quot;: &quot;实现各市取样与地区筛选&quot;, &quot;predecessor&quot;: &quot;T3.4FS; T3.3FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R03&quot;, &quot;hours&quot;: 15, &quot;start&quot;: &quot;2026-11-18&quot;, &quot;finish&quot;: &quot;2026-11-19&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。取样、地区过滤和同源图表复用查询；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用&quot;, &quot;source_row&quot;: 26, &quot;first&quot;: 22, &quot;last&quot;: 23, &quot;active_calendar_columns&quot;: [30, 31]}, {&quot;id&quot;: &quot;T3.13&quot;, &quot;name&quot;: &quot;实现两期比较与连续期趋势&quot;, &quot;predecessor&quot;: &quot;T3.10SS+1d&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 21, &quot;start&quot;: &quot;2026-11-17&quot;, &quot;finish&quot;: &quot;2026-11-19&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。两期、连续期趋势与缺样本语义；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成&quot;, &quot;source_row&quot;: 27, &quot;first&quot;: 21, &quot;last&quot;: 23, &quot;active_calendar_columns&quot;: [29, 30, 31]}, {&quot;id&quot;: &quot;T3.14&quot;, &quot;name&quot;: &quot;实现通知与用户管理界面&quot;, &quot;predecessor&quot;: &quot;T3.2FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R03&quot;, &quot;hours&quot;: 16, &quot;start&quot;: &quot;2026-11-16&quot;, &quot;finish&quot;: &quot;2026-11-17&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。通知和账号管理界面复用权限基础；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用&quot;, &quot;source_row&quot;: 28, &quot;first&quot;: 20, &quot;last&quot;: 21, &quot;active_calendar_columns&quot;: [28, 29]}, {&quot;id&quot;: &quot;T3.15&quot;, &quot;name&quot;: &quot;实现删除恢复、脱敏与审计&quot;, &quot;predecessor&quot;: &quot;T3.8FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R02&quot;, &quot;hours&quot;: 23, &quot;start&quot;: &quot;2026-11-11&quot;, &quot;finish&quot;: &quot;2026-11-13&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。删除恢复、清理计时、脱敏与审计链；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用&quot;, &quot;source_row&quot;: 29, &quot;first&quot;: 17, &quot;last&quot;: 19, &quot;active_calendar_columns&quot;: [23, 24, 25]}, {&quot;id&quot;: &quot;T3.16&quot;, &quot;name&quot;: &quot;实现运行监控与指标采集&quot;, &quot;predecessor&quot;: &quot;T3.1FS; T2.3FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R04&quot;, &quot;hours&quot;: 18, &quot;start&quot;: &quot;2026-10-30&quot;, &quot;finish&quot;: &quot;2026-11-02&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。实际宿主采集与失败标识，复用监控库；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用&quot;, &quot;source_row&quot;: 30, &quot;first&quot;: 9, &quot;last&quot;: 10, &quot;active_calendar_columns&quot;: [11, 14]}, {&quot;id&quot;: &quot;T3.17&quot;, &quot;name&quot;: &quot;实现批次冻结与MOCK交换&quot;, &quot;predecessor&quot;: &quot;T3.10SS+1d; T2.3FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R02&quot;, &quot;hours&quot;: 21, &quot;start&quot;: &quot;2026-11-12&quot;, &quot;finish&quot;: &quot;2026-11-16&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。批次冻结、黄金摘要、MOCK回执及恢复；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成&quot;, &quot;source_row&quot;: 31, &quot;first&quot;: 18, &quot;last&quot;: 20, &quot;active_calendar_columns&quot;: [24, 25, 28]}, {&quot;id&quot;: &quot;T3.18&quot;, &quot;name&quot;: &quot;实现实际REAL协议适配&quot;, &quot;predecessor&quot;: &quot;T2.4FS; T2.3FS&quot;, &quot;phase&quot;: &quot;条件开发&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 18, &quot;start&quot;: &quot;2026-11-12&quot;, &quot;finish&quot;: &quot;2026-11-16&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。外部协议和验证条件未确认；不预置未经证实的模型参数。按假定已具备的真实协议实现认证、映射及传输；复用批次界面，不另行重复前端开发；按模块专长重新分工，测试部署成员兼工具及自动化开发；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用&quot;, &quot;source_row&quot;: 32, &quot;first&quot;: 18, &quot;last&quot;: 20, &quot;active_calendar_columns&quot;: [24, 25, 28]}, {&quot;id&quot;: &quot;T3.19&quot;, &quot;name&quot;: &quot;编写配置、部署、备份与回滚&quot;, &quot;predecessor&quot;: &quot;T3.1FS; T2.2FS&quot;, &quot;phase&quot;: &quot;开发&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R04&quot;, &quot;hours&quot;: 16, &quot;start&quot;: &quot;2026-10-27&quot;, &quot;finish&quot;: &quot;2026-10-29&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。部署、配置、备份、迁移和回滚脚本；仿真假设成熟组件和自动化工具辅助使开发工作量为独立手写初估的50%，仍保留人工复核，非已完成代码复用&quot;, &quot;source_row&quot;: 33, &quot;first&quot;: 6, &quot;last&quot;: 8, &quot;active_calendar_columns&quot;: [8, 9, 10]}, {&quot;id&quot;: &quot;T4.1&quot;, &quot;name&quot;: &quot;评审主业务链阶段成果&quot;, &quot;predecessor&quot;: &quot;T3.6FS; T3.7FS; T3.14FS&quot;, &quot;phase&quot;: &quot;阶段评审&quot;, &quot;duration&quot;: 1, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 12, &quot;start&quot;: &quot;2026-11-20&quot;, &quot;finish&quot;: &quot;2026-11-20&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。四人阶段评审、检查AC与未解决问题&quot;, &quot;source_row&quot;: 34, &quot;first&quot;: 24, &quot;last&quot;: 24, &quot;active_calendar_columns&quot;: [32]}, {&quot;id&quot;: &quot;T4.2&quot;, &quot;name&quot;: &quot;完成本地模块集成&quot;, &quot;predecessor&quot;: &quot;T3.11FS; T3.13FS; T3.15FS; T3.16FS; T3.17FS; T3.19FS; T4.1FS; T3.12FS&quot;, &quot;phase&quot;: &quot;集成&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R02&quot;, &quot;hours&quot;: 34, &quot;start&quot;: &quot;2026-11-23&quot;, &quot;finish&quot;: &quot;2026-11-24&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。多模块集成、数据一致性和联调&quot;, &quot;source_row&quot;: 35, &quot;first&quot;: 25, &quot;last&quot;: 26, &quot;active_calendar_columns&quot;: [35, 36]}, {&quot;id&quot;: &quot;T4.3&quot;, &quot;name&quot;: &quot;执行业务功能与边界测试&quot;, &quot;predecessor&quot;: &quot;T4.2FS; T1.3FS&quot;, &quot;phase&quot;: &quot;测试&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R04&quot;, &quot;hours&quot;: 36, &quot;start&quot;: &quot;2026-11-30&quot;, &quot;finish&quot;: &quot;2026-12-02&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。QA主导，开发人员并行执行AC-01至09&quot;, &quot;source_row&quot;: 36, &quot;first&quot;: 30, &quot;last&quot;: 32, &quot;active_calendar_columns&quot;: [42, 43, 44]}, {&quot;id&quot;: &quot;T4.4&quot;, &quot;name&quot;: &quot;验证MOCK回执与黄金摘要&quot;, &quot;predecessor&quot;: &quot;T3.17FS; T1.3FS&quot;, &quot;phase&quot;: &quot;测试&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R04&quot;, &quot;hours&quot;: 16, &quot;start&quot;: &quot;2026-11-17&quot;, &quot;finish&quot;: &quot;2026-11-18&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。黄金摘要、回执超时与恢复测试&quot;, &quot;source_row&quot;: 37, &quot;first&quot;: 21, &quot;last&quot;: 22, &quot;active_calendar_columns&quot;: [29, 30]}, {&quot;id&quot;: &quot;T4.5&quot;, &quot;name&quot;: &quot;完成实际国家交换验证&quot;, &quot;predecessor&quot;: &quot;T3.18FS; T2.4FS&quot;, &quot;phase&quot;: &quot;条件测试&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R04&quot;, &quot;hours&quot;: 20, &quot;start&quot;: &quot;2026-11-19&quot;, &quot;finish&quot;: &quot;2026-11-20&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。外部协议和验证条件未确认；不预置未经证实的模型参数。计划受控真实交换验证；不填实际通过记录；按模块专长重新分工，测试部署成员兼工具及自动化开发&quot;, &quot;source_row&quot;: 38, &quot;first&quot;: 23, &quot;last&quot;: 24, &quot;active_calendar_columns&quot;: [31, 32]}, {&quot;id&quot;: &quot;T4.6&quot;, &quot;name&quot;: &quot;验证安全、认证和并发一致性&quot;, &quot;predecessor&quot;: &quot;T4.2FS; T1.3FS&quot;, &quot;phase&quot;: &quot;测试&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R04&quot;, &quot;hours&quot;: 28, &quot;start&quot;: &quot;2026-11-25&quot;, &quot;finish&quot;: &quot;2026-11-27&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。QA制定用例，PM与后端分担鉴权和并发验证&quot;, &quot;source_row&quot;: 39, &quot;first&quot;: 27, &quot;last&quot;: 29, &quot;active_calendar_columns&quot;: [37, 38, 39]}, {&quot;id&quot;: &quot;T4.7&quot;, &quot;name&quot;: &quot;执行容量、性能与导出测试&quot;, &quot;predecessor&quot;: &quot;T4.2FS; T1.3FS&quot;, &quot;phase&quot;: &quot;测试&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R04&quot;, &quot;hours&quot;: 24, &quot;start&quot;: &quot;2026-11-25&quot;, &quot;finish&quot;: &quot;2026-11-27&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。独立负载机、合成60万月报与200并发&quot;, &quot;source_row&quot;: 40, &quot;first&quot;: 27, &quot;last&quot;: 29, &quot;active_calendar_columns&quot;: [37, 38, 39]}, {&quot;id&quot;: &quot;T4.8&quot;, &quot;name&quot;: &quot;验证备份恢复与72小时运行&quot;, &quot;predecessor&quot;: &quot;T4.2FS; T3.19FS&quot;, &quot;phase&quot;: &quot;测试&quot;, &quot;duration&quot;: 4, &quot;owner&quot;: &quot;R04&quot;, &quot;hours&quot;: 16, &quot;start&quot;: &quot;2026-11-27&quot;, &quot;finish&quot;: &quot;2026-12-02&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。4工作日覆盖不少于72自然小时，自动监测；人时只计配置、观察和恢复演练&quot;, &quot;source_row&quot;: 41, &quot;first&quot;: 29, &quot;last&quot;: 32, &quot;active_calendar_columns&quot;: [39, 42, 43, 44]}, {&quot;id&quot;: &quot;T4.9&quot;, &quot;name&quot;: &quot;验证兼容、部署与监控&quot;, &quot;predecessor&quot;: &quot;T4.2FS; T3.16FS; T3.19FS&quot;, &quot;phase&quot;: &quot;测试&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R04&quot;, &quot;hours&quot;: 16, &quot;start&quot;: &quot;2026-11-25&quot;, &quot;finish&quot;: &quot;2026-11-26&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。兼容、导出、部署和实际监控证据&quot;, &quot;source_row&quot;: 42, &quot;first&quot;: 27, &quot;last&quot;: 28, &quot;active_calendar_columns&quot;: [37, 38]}, {&quot;id&quot;: &quot;T4.10&quot;, &quot;name&quot;: &quot;修复缺陷并复核需求覆盖&quot;, &quot;predecessor&quot;: &quot;T4.3FS; T4.4FS; T4.6FS; T4.7FS; T4.8FS; T4.9FS; T4.5FS&quot;, &quot;phase&quot;: &quot;修复回归&quot;, &quot;duration&quot;: 3, &quot;owner&quot;: &quot;R02&quot;, &quot;hours&quot;: 56, &quot;start&quot;: &quot;2026-12-03&quot;, &quot;finish&quot;: &quot;2026-12-07&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。按既有模块预留56人时修复与全量回归&quot;, &quot;source_row&quot;: 43, &quot;first&quot;: 33, &quot;last&quot;: 35, &quot;active_calendar_columns&quot;: [45, 46, 49]}, {&quot;id&quot;: &quot;T5.1&quot;, &quot;name&quot;: &quot;部署拟定试运行环境&quot;, &quot;predecessor&quot;: &quot;T4.2SS; T3.19FS&quot;, &quot;phase&quot;: &quot;部署&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 16, &quot;start&quot;: &quot;2026-11-23&quot;, &quot;finish&quot;: &quot;2026-11-24&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。仿真独立试运行环境与部署窗口；按模块专长重新分工，测试部署成员兼工具及自动化开发；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成&quot;, &quot;source_row&quot;: 44, &quot;first&quot;: 25, &quot;last&quot;: 26, &quot;active_calendar_columns&quot;: [35, 36]}, {&quot;id&quot;: &quot;T5.2&quot;, &quot;name&quot;: &quot;安排业务试运行与反馈&quot;, &quot;predecessor&quot;: &quot;T4.10FS; T5.1FS&quot;, &quot;phase&quot;: &quot;试运行&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 18, &quot;start&quot;: &quot;2026-12-08&quot;, &quot;finish&quot;: &quot;2026-12-09&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。用合成数据模拟业务试运行和反馈&quot;, &quot;source_row&quot;: 45, &quot;first&quot;: 36, &quot;last&quot;: 37, &quot;active_calendar_columns&quot;: [50, 51]}, {&quot;id&quot;: &quot;T5.3&quot;, &quot;name&quot;: &quot;编写操作与开发维护说明&quot;, &quot;predecessor&quot;: &quot;T4.1FS; T1.3FS&quot;, &quot;phase&quot;: &quot;交付准备&quot;, &quot;duration&quot;: 4, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 32, &quot;start&quot;: &quot;2026-11-30&quot;, &quot;finish&quot;: &quot;2026-12-03&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。四角色操作手册及维护说明&quot;, &quot;source_row&quot;: 46, &quot;first&quot;: 30, &quot;last&quot;: 33, &quot;active_calendar_columns&quot;: [42, 43, 44, 45]}, {&quot;id&quot;: &quot;T5.4&quot;, &quot;name&quot;: &quot;安排操作培训与演示&quot;, &quot;predecessor&quot;: &quot;T4.10FS; T5.3FS&quot;, &quot;phase&quot;: &quot;培训&quot;, &quot;duration&quot;: 1, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 8, &quot;start&quot;: &quot;2026-12-10&quot;, &quot;finish&quot;: &quot;2026-12-10&quot;, &quot;critical&quot;: true, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。一次远程培训演示，无实际参加记录&quot;, &quot;source_row&quot;: 47, &quot;first&quot;: 38, &quot;last&quot;: 38, &quot;active_calendar_columns&quot;: [52]}, {&quot;id&quot;: &quot;T5.5&quot;, &quot;name&quot;: &quot;整理代码、配置和验证证据&quot;, &quot;predecessor&quot;: &quot;T4.10FS; T5.3FS&quot;, &quot;phase&quot;: &quot;移交&quot;, &quot;duration&quot;: 2, &quot;owner&quot;: &quot;R04&quot;, &quot;hours&quot;: 18, &quot;start&quot;: &quot;2026-12-08&quot;, &quot;finish&quot;: &quot;2026-12-09&quot;, &quot;critical&quot;: false, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。代码、配置、构建和证据包移交准备&quot;, &quot;source_row&quot;: 48, &quot;first&quot;: 36, &quot;last&quot;: 37, &quot;active_calendar_columns&quot;: [50, 51]}, {&quot;id&quot;: &quot;T5.6&quot;, &quot;name&quot;: &quot;完成最终项目验收&quot;, &quot;predecessor&quot;: &quot;T5.2FS; T5.4FS; T5.5FS; T4.5FS&quot;, &quot;phase&quot;: &quot;条件验收&quot;, &quot;duration&quot;: 1, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 12, &quot;start&quot;: &quot;2026-12-11&quot;, &quot;finish&quot;: &quot;2026-12-11&quot;, &quot;critical&quot;: true, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。外部协议和验证条件未确认；不预置未经证实的模型参数。全范围验收评审，必须含AC-10B计划证据&quot;, &quot;source_row&quot;: 49, &quot;first&quot;: 39, &quot;last&quot;: 39, &quot;active_calendar_columns&quot;: [53]}, {&quot;id&quot;: &quot;T5.7&quot;, &quot;name&quot;: &quot;汇总8周模拟的最终项目计划&quot;, &quot;predecessor&quot;: &quot;T1.2FS; T2.5FS; T5.6SS&quot;, &quot;phase&quot;: &quot;计划定稿&quot;, &quot;duration&quot;: 1, &quot;owner&quot;: &quot;R01&quot;, &quot;hours&quot;: 8, &quot;start&quot;: &quot;2026-12-11&quot;, &quot;finish&quot;: &quot;2026-12-11&quot;, &quot;critical&quot;: true, &quot;assumptions&quot;: &quot;自下而上估算：按WBS活动分资源人时×仿真费率汇总；复杂度、复用条件和工作量假设逐轮复核。项目经理和QA并行复核最终计划，与仿真验收安排同日定稿；不等待或虚构实际执行结果；已确认SRS接口后先交付内部接口骨架，模块重叠编码；集成和验收等待全部相关模块完成&quot;, &quot;source_row&quot;: 50, &quot;first&quot;: 39, &quot;last&quot;: 39, &quot;active_calendar_columns&quot;: [53]}], &quot;workdays&quot;: [&quot;2026-10-19&quot;, &quot;2026-10-20&quot;, &quot;2026-10-21&quot;, &quot;2026-10-22&quot;, &quot;2026-10-23&quot;, &quot;2026-10-26&quot;, &quot;2026-10-27&quot;, &quot;2026-10-28&quot;, &quot;2026-10-29&quot;, &quot;2026-10-30&quot;, &quot;2026-11-02&quot;, &quot;2026-11-03&quot;, &quot;2026-11-04&quot;, &quot;2026-11-05&quot;, &quot;2026-11-06&quot;, &quot;2026-11-09&quot;, &quot;2026-11-10&quot;, &quot;2026-11-11&quot;, &quot;2026-11-12&quot;, &quot;2026-11-13&quot;, &quot;2026-11-16&quot;, &quot;2026-11-17&quot;, &quot;2026-11-18&quot;, &quot;2026-11-19&quot;, &quot;2026-11-20&quot;, &quot;2026-11-23&quot;, &quot;2026-11-24&quot;, &quot;2026-11-25&quot;, &quot;2026-11-26&quot;, &quot;2026-11-27&quot;, &quot;2026-11-30&quot;, &quot;2026-12-01&quot;, &quot;2026-12-02&quot;, &quot;2026-12-03&quot;, &quot;2026-12-04&quot;, &quot;2026-12-07&quot;, &quot;2026-12-08&quot;, &quot;2026-12-09&quot;, &quot;2026-12-10&quot;, &quot;2026-12-11&quot;], &quot;calendar&quot;: [&quot;2026-10-19&quot;, &quot;2026-10-20&quot;, &quot;2026-10-21&quot;, &quot;2026-10-22&quot;, &quot;2026-10-23&quot;, &quot;2026-10-24&quot;, &quot;2026-10-25&quot;, &quot;2026-10-26&quot;, &quot;2026-10-27&quot;, &quot;2026-10-28&quot;, &quot;2026-10-29&quot;, &quot;2026-10-30&quot;, &quot;2026-10-31&quot;, &quot;2026-11-01&quot;, &quot;2026-11-02&quot;, &quot;2026-11-03&quot;, &quot;2026-11-04&quot;, &quot;2026-11-05&quot;, &quot;2026-11-06&quot;, &quot;2026-11-07&quot;, &quot;2026-11-08&quot;, &quot;2026-11-09&quot;, &quot;2026-11-10&quot;, &quot;2026-11-11&quot;, &quot;2026-11-12&quot;, &quot;2026-11-13&quot;, &quot;2026-11-14&quot;, &quot;2026-11-15&quot;, &quot;2026-11-16&quot;, &quot;2026-11-17&quot;, &quot;2026-11-18&quot;, &quot;2026-11-19&quot;, &quot;2026-11-20&quot;, &quot;2026-11-21&quot;, &quot;2026-11-22&quot;, &quot;2026-11-23&quot;, &quot;2026-11-24&quot;, &quot;2026-11-25&quot;, &quot;2026-11-26&quot;, &quot;2026-11-27&quot;, &quot;2026-11-28&quot;, &quot;2026-11-29&quot;, &quot;2026-11-30&quot;, &quot;2026-12-01&quot;, &quot;2026-12-02&quot;, &quot;2026-12-03&quot;, &quot;2026-12-04&quot;, &quot;2026-12-05&quot;, &quot;2026-12-06&quot;, &quot;2026-12-07&quot;, &quot;2026-12-08&quot;, &quot;2026-12-09&quot;, &quot;2026-12-10&quot;, &quot;2026-12-11&quot;, &quot;2026-12-12&quot;, &quot;2026-12-13&quot;], &quot;submission_note&quot;: &quot;2026-12-13&quot;}</metadata>
+</svg>
