@@ -10,6 +10,8 @@
 | 可编译文档源 | [SRS V1.2 Typst](../需求文档/云南省企业就业失业数据采集系统_SRS_V1.2.typ) |
 | 当前需求交付 | [SRS V1.2 PDF](../需求文档/云南省企业就业失业数据采集系统_SRS_V1.2.pdf) |
 | 修订说明 | [SRS V1.2 修订记录](../需求文档/SRS_V1.2修订记录.md) |
+| 面向对象建模 | [离线模型浏览](../需求文档/面向对象建模/模型浏览.html)、[建模报告 PDF](../需求文档/面向对象建模/面向对象建模报告.pdf)、[维护说明](../需求文档/面向对象建模/README.md)：UML 类图、ER 图、用例图及可编辑源 |
+| 需求追踪矩阵 | [43 项需求矩阵](../需求文档/面向对象建模/需求追踪矩阵.md)：来源、用例、类、实体、WBS、AC 与分项状态；[模型源](../需求文档/面向对象建模/模型.json)为维护入口 |
 | Excel 计划 | [项目计划表_四人仿真.xlsx](../项目计划/提交文件/项目计划表_四人仿真.xlsx) |
 | Project 计划 | [项目计划_四人仿真.mpp](../项目计划/提交文件/项目计划_四人仿真.mpp) |
 | 配置管理与变更记录 | [计划版本记录](../项目计划/计划版本记录.md) |
@@ -55,5 +57,7 @@ typst compile --root . "需求文档/云南省企业就业失业数据采集系�
 使用 Spec Kit 时，先阅读 [AGENTS.md](../AGENTS.md) 与 [constitution.md](../.specify/memory/constitution.md)，按当前功能在 `specs/NNN-主题/` 中维护 `spec.md`、`plan.md`、`tasks.md`；研究、决策与实际验收结果合并进计划。保持轻量，不新增 CI、提交钩子、格式检查或检查清单文件。
 
 已有工作记录位于 [001 缺样本显示](../specs/001-comparison-empty-samples)、[002 需求工程审查](../specs/002-srs-engineering-audit)、[003 SRS V1.2 修订](../specs/003-srs-v12-revision)。历史记录中的旧路径描述当时工作，后续文件位置以本说明与 AGENTS.md 为准。
+
+[004 面向对象建模与需求追踪](../specs/004-object-oriented-modeling)建立 OM-1.0 分析模型：32 个用例、32 个类、33 个实体，并连接现有 43 项需求。建模、原型演示、正式实现和验收分别登记；本次没有修改 SRS V1.2 业务含义、原型行为或模拟计划参数。后续需求及实现变更同步维护矩阵，具体步骤见建模目录的维护说明。
 
 模板适配自 [BIT-Typst-Template](https://github.com/Ri-Nai/BIT-Typst-Template)，来源说明保留在样式源文件中。维护约定见 [CONTRIBUTING.md](CONTRIBUTING.md)。

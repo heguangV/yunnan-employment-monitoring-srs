@@ -28,10 +28,14 @@
 
 # Course downloads stay local; selected plan deliverables are versioned for CM.
 /课程资料/
-/specs/
+/specs/*
+!/specs/004-object-oriented-modeling/
 
 # Explicit final PDF used with the versioned XLSX, MPP and CM screenshots.
 !/项目计划/提交文件/项目变更单.pdf
+
+# Final modeling report is versioned together with its editable sources.
+!/需求文档/面向对象建模/面向对象建模报告.pdf
 
 # Fallback protection only: these files must be kept outside the project.
 /artifacts/
